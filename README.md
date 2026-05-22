@@ -157,7 +157,6 @@ This project models these issues using synthetic operational data and provides a
 
 ## Project Structure
 
-```text
 terminal-operations-analytics/
 │
 ├── app.py
@@ -171,8 +170,8 @@ How to Run Locally
 pip install -r requirements.txt
 2. Run Streamlit app
 streamlit run app.py
-Purpose of Project
 
+Purpose of Project
 This project was built as a portfolio case study for data analytics and operations analytics roles, demonstrating skills in:
 
 data cleaning
@@ -180,6 +179,6 @@ exploratory data analysis
 dashboard development
 operational insight generation
 real-world system modeling
-Author
 
+Author
 Student project focused on transportation systems, operations analytics, and data-driven decision making.
