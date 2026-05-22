@@ -166,13 +166,14 @@ terminal-operations-analytics/
 └── data/
     └── terminal_data.csv
 
-## How to Run Locally
+
+How to Run Locally
 1. Install dependencies
 pip install -r requirements.txt
 2. Run Streamlit app
 streamlit run app.py
 
-## Purpose of Project
+Purpose of Project
 This project was built as a portfolio case study for data analytics and operations analytics roles, demonstrating skills in:
 
 data cleaning
@@ -181,5 +182,5 @@ dashboard development
 operational insight generation
 real-world system modeling
 
-## Author
+Author
 Student project focused on transportation systems, operations analytics, and data-driven decision making.
