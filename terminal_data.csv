@@ -1,0 +1,1001 @@
+Date,Timestamp,Vehicle_Type,Mode,Route,Entry_Min,Exit_Min,Dwell_Time,Queue_Size,Congestion_Level,Data_Quality_Flag
+2026-04-27,19:00,Jeepney,Short Haul,Molo,15,19,4,3,1,OK
+2026-05-10,10:00,Jeepney,Short Haul,La Paz,35,47,12,3,1,OK
+2026-05-19,13:00,Jeepney,Short Haul,Mandurriao,55,59,4,2,1,OK
+2026-05-05,08:00,Bus,Long Haul,San Joaquin,24,61,37,14,5,ADJUSTED
+2026-05-01,16:00,UV Express,Medium Haul,Pavia,31,50,19,15,5,OK
+2026-04-28,16:00,Jeepney,Medium Haul,Oton,32,48,16,8,3,ADJUSTED
+2026-05-19,11:00,UV Express,Medium Haul,Oton,44,51,7,1,1,OK
+2026-05-11,10:00,UV Express,Medium Haul,Leganes,35,40,5,7,3,OK
+2026-04-27,18:00,Jeepney,Short Haul,Molo,19,39,20,12,4,ADJUSTED
+2026-05-16,12:00,Jeepney,Medium Haul,Pavia,17,24,7,4,2,OK
+2026-05-09,16:00,UV Express,Medium Haul,Pavia,37,55,18,15,5,OK
+2026-05-13,08:00,Modern Jeepney,Short Haul,Molo,2,23,21,15,5,OK
+2026-05-01,18:00,UV Express,Medium Haul,Oton,22,40,18,13,5,OK
+2026-05-01,12:00,Modern Jeepney,Medium Haul,Oton,31,41,10,4,2,OK
+2026-05-14,15:00,Bus,Long Haul,San Joaquin,44,69,25,6,2,ADJUSTED
+2026-05-11,08:00,Modern Jeepney,Short Haul,Mandurriao,58,78,20,11,4,ADJUSTED
+2026-04-24,22:00,Modern Jeepney,Medium Haul,Leganes,15,26,11,1,1,OK
+2026-04-28,09:00,Bus,Long Haul,Pototan,58,77,19,6,2,ADJUSTED
+2026-05-14,18:00,Jeepney,Short Haul,Molo,4,14,10,9,3,ADJUSTED
+2026-04-23,13:00,Jeepney,Short Haul,Molo,3,6,3,7,3,OK
+2026-05-12,08:00,Jeepney,Short Haul,Jaro,20,44,24,11,4,OK
+2026-05-11,18:00,UV Express,Long Haul,Pototan,39,54,15,14,5,OK
+2026-04-22,10:00,UV Express,Medium Haul,Oton,50,59,9,5,2,OK
+2026-05-14,18:00,UV Express,Medium Haul,Oton,13,33,20,15,5,OK
+2026-05-02,19:00,Jeepney,Short Haul,Mandurriao,38,50,12,4,2,OK
+2026-05-20,18:00,Jeepney,Short Haul,La Paz,30,54,24,14,5,OK
+2026-04-26,07:00,Jeepney,Short Haul,Molo,13,23,10,11,4,OK
+2026-04-22,18:00,Jeepney,Short Haul,Jaro,5,17,12,14,5,OK
+2026-05-18,13:00,Modern Jeepney,Short Haul,Molo,11,17,6,6,2,OK
+2026-05-11,18:00,Jeepney,Short Haul,La Paz,15,40,25,12,4,OK
+2026-04-21,17:00,Jeepney,Short Haul,La Paz,16,41,25,14,5,OK
+2026-05-02,18:00,Bus,Long Haul,San Joaquin,44,71,27,11,4,ADJUSTED
+2026-05-16,16:00,Jeepney,Short Haul,Jaro,22,35,13,15,5,OK
+2026-05-12,16:00,Modern Jeepney,Short Haul,Mandurriao,13,37,24,12,4,ADJUSTED
+2026-05-19,07:00,UV Express,Medium Haul,Leganes,6,20,14,8,3,OK
+2026-05-02,18:00,Jeepney,Short Haul,Molo,45,58,13,9,3,ADJUSTED
+2026-05-15,13:00,UV Express,Medium Haul,Leganes,31,41,10,3,1,OK
+2026-05-07,15:00,Bus,Long Haul,San Joaquin,14,43,29,6,2,OK
+2026-05-17,18:00,Bus,Long Haul,Barotac Nuevo,43,83,40,12,4,ADJUSTED
+2026-05-17,16:00,Jeepney,Short Haul,Jaro,16,38,22,9,3,OK
+2026-04-30,08:00,Bus,Long Haul,San Joaquin,40,81,41,11,4,ADJUSTED
+2026-05-18,16:00,Modern Jeepney,Short Haul,Jaro,53,74,21,11,4,ADJUSTED
+2026-05-18,13:00,Jeepney,Short Haul,Molo,46,55,9,3,1,OK
+2026-05-06,15:00,Jeepney,Short Haul,Mandurriao,43,48,5,5,2,OK
+2026-05-05,06:00,Bus,Long Haul,San Joaquin,33,54,21,4,2,OK
+2026-05-20,08:00,Modern Jeepney,Short Haul,Mandurriao,4,15,11,14,5,OK
+2026-05-20,08:00,Jeepney,Short Haul,Molo,44,55,11,8,3,OK
+2026-05-05,17:00,UV Express,Medium Haul,Pavia,26,43,17,11,4,OK
+2026-05-20,06:00,Jeepney,Short Haul,Molo,51,66,15,3,1,ADJUSTED
+2026-05-09,13:00,Jeepney,Short Haul,Mandurriao,22,25,3,2,1,OK
+2026-05-02,19:00,Jeepney,Short Haul,Jaro,39,46,7,2,1,OK
+2026-05-13,07:00,Jeepney,Medium Haul,Leganes,58,78,20,12,4,ADJUSTED
+2026-05-10,16:00,Jeepney,Short Haul,Mandurriao,13,37,24,15,5,OK
+2026-05-15,18:00,Jeepney,Short Haul,Molo,14,25,11,9,3,OK
+2026-04-23,20:00,UV Express,Long Haul,San Joaquin,42,50,8,7,3,OK
+2026-04-25,17:00,Jeepney,Short Haul,La Paz,32,48,16,12,4,ADJUSTED
+2026-05-09,17:00,Jeepney,Short Haul,Mandurriao,52,69,17,9,3,ADJUSTED
+2026-04-27,18:00,Bus,Long Haul,Pototan,30,69,39,11,4,ADJUSTED
+2026-05-11,14:00,Jeepney,Short Haul,Mandurriao,34,38,4,3,1,OK
+2026-04-29,18:00,UV Express,Medium Haul,Leganes,16,36,20,12,4,OK
+2026-04-27,06:00,Jeepney,Medium Haul,Oton,27,30,3,1,1,OK
+2026-05-08,19:00,Jeepney,Short Haul,La Paz,18,27,9,4,2,OK
+2026-04-24,14:00,Jeepney,Short Haul,Jaro,45,54,9,1,1,OK
+2026-05-15,16:00,Jeepney,Short Haul,Mandurriao,53,78,25,14,5,ADJUSTED
+2026-05-18,08:00,Jeepney,Short Haul,Jaro,22,44,22,13,5,OK
+2026-05-04,17:00,Jeepney,Short Haul,Mandurriao,31,56,25,12,4,ADJUSTED
+2026-05-08,07:00,Jeepney,Short Haul,Molo,39,64,25,8,3,ADJUSTED
+2026-05-16,18:00,Jeepney,Short Haul,Mandurriao,12,35,23,12,4,OK
+2026-04-29,18:00,Jeepney,Short Haul,Mandurriao,58,71,13,13,5,ADJUSTED
+2026-05-16,08:00,Jeepney,Short Haul,Mandurriao,19,29,10,14,5,OK
+2026-05-11,18:00,Jeepney,Short Haul,Molo,34,56,22,11,4,ADJUSTED
+2026-04-22,18:00,Modern Jeepney,Short Haul,La Paz,4,14,10,13,5,OK
+2026-05-10,17:00,UV Express,Medium Haul,Pavia,8,21,13,10,4,OK
+2026-05-18,11:00,Jeepney,Short Haul,Molo,28,43,15,7,3,OK
+2026-05-05,08:00,UV Express,Long Haul,San Joaquin,5,25,20,10,4,OK
+2026-05-18,08:00,UV Express,Medium Haul,Leganes,24,37,13,11,4,OK
+2026-04-27,09:00,Jeepney,Short Haul,La Paz,30,33,3,2,1,OK
+2026-05-02,20:00,Bus,Long Haul,Pototan,21,41,20,1,1,OK
+2026-05-19,07:00,Bus,Long Haul,Barotac Nuevo,1,32,31,12,4,OK
+2026-04-28,18:00,Jeepney,Short Haul,La Paz,44,66,22,13,5,ADJUSTED
+2026-05-05,10:00,Jeepney,Medium Haul,Oton,4,12,8,1,1,OK
+2026-04-23,16:00,UV Express,Medium Haul,Leganes,59,79,20,13,5,ADJUSTED
+2026-05-04,18:00,UV Express,Medium Haul,Pavia,26,43,17,12,4,OK
+2026-05-07,18:00,Jeepney,Medium Haul,Leganes,24,47,23,10,4,ADJUSTED
+2026-04-24,10:00,Jeepney,Short Haul,Molo,7,16,9,2,1,OK
+2026-05-08,15:00,Jeepney,Medium Haul,Pavia,54,66,12,4,2,ADJUSTED
+2026-04-28,13:00,Modern Jeepney,Short Haul,La Paz,0,7,7,2,1,OK
+2026-04-24,06:00,UV Express,Medium Haul,Oton,19,25,6,7,3,OK
+2026-04-22,08:00,Jeepney,Short Haul,La Paz,43,53,10,13,5,OK
+2026-05-20,15:00,Jeepney,Short Haul,Molo,22,28,6,1,1,OK
+2026-04-26,13:00,UV Express,Medium Haul,Pavia,31,41,10,1,1,OK
+2026-05-12,17:00,Jeepney,Medium Haul,Pavia,10,28,18,14,5,OK
+2026-04-30,12:00,Jeepney,Medium Haul,Oton,38,47,9,2,1,OK
+2026-04-24,15:00,UV Express,Medium Haul,Oton,46,56,10,3,1,OK
+2026-05-12,13:00,Bus,Long Haul,Pototan,53,80,27,5,2,ADJUSTED
+2026-05-19,17:00,Modern Jeepney,Short Haul,Mandurriao,23,36,13,11,4,ADJUSTED
+2026-05-08,18:00,Modern Jeepney,Short Haul,Jaro,10,24,14,15,5,OK
+2026-05-16,16:00,Jeepney,Short Haul,La Paz,28,50,22,13,5,OK
+2026-05-02,18:00,Jeepney,Short Haul,Jaro,53,67,14,14,5,ADJUSTED
+2026-04-22,08:00,Modern Jeepney,Short Haul,Molo,25,40,15,11,4,ADJUSTED
+2026-04-30,16:00,Jeepney,Short Haul,Molo,15,27,12,13,5,OK
+2026-05-20,10:00,Jeepney,Short Haul,La Paz,34,40,6,1,1,OK
+2026-04-24,13:00,Jeepney,Medium Haul,Oton,19,22,3,4,2,OK
+2026-05-04,17:00,Jeepney,Medium Haul,Pavia,45,64,19,12,4,ADJUSTED
+2026-05-06,18:00,Jeepney,Short Haul,La Paz,2,27,25,9,3,OK
+2026-05-05,07:00,Jeepney,Short Haul,Jaro,0,10,10,8,3,OK
+2026-04-28,17:00,Jeepney,Short Haul,Molo,57,77,20,15,5,ADJUSTED
+2026-05-04,16:00,Jeepney,Short Haul,La Paz,52,62,10,8,3,ADJUSTED
+2026-05-13,07:00,Bus,Long Haul,San Joaquin,46,86,40,10,4,ADJUSTED
+2026-05-18,08:00,Modern Jeepney,Short Haul,Molo,0,19,19,9,3,ADJUSTED
+2026-05-15,09:00,UV Express,Medium Haul,Pavia,16,27,11,1,1,OK
+2026-05-20,08:00,UV Express,Long Haul,San Joaquin,1,14,13,15,5,OK
+2026-04-28,08:00,Modern Jeepney,Short Haul,La Paz,28,41,13,10,4,ADJUSTED
+2026-05-11,08:00,Jeepney,Medium Haul,Leganes,19,33,14,12,4,ADJUSTED
+2026-05-06,10:00,Modern Jeepney,Short Haul,Jaro,5,13,8,7,3,OK
+2026-05-03,17:00,Modern Jeepney,Short Haul,Molo,7,18,11,11,4,OK
+2026-05-08,16:00,UV Express,Medium Haul,Leganes,28,45,17,12,4,OK
+2026-05-05,22:00,Jeepney,Short Haul,Mandurriao,47,49,2,2,1,OK
+2026-05-11,13:00,Jeepney,Short Haul,Mandurriao,50,58,8,5,2,OK
+2026-05-14,17:00,Jeepney,Medium Haul,Oton,32,50,18,15,5,OK
+2026-05-16,18:00,Jeepney,Short Haul,Mandurriao,2,16,14,14,5,OK
+2026-05-15,17:00,UV Express,Medium Haul,Pavia,59,75,16,15,5,ADJUSTED
+2026-05-18,13:00,Modern Jeepney,Short Haul,La Paz,34,39,5,7,3,OK
+2026-05-18,17:00,Jeepney,Short Haul,La Paz,4,29,25,13,5,OK
+2026-05-18,08:00,Bus,Long Haul,San Joaquin,26,66,40,10,4,ADJUSTED
+2026-05-03,10:00,UV Express,Medium Haul,Leganes,43,50,7,5,2,OK
+2026-04-29,16:00,Jeepney,Short Haul,Molo,11,29,18,12,4,OK
+2026-05-19,16:00,Jeepney,Short Haul,Jaro,19,33,14,8,3,OK
+2026-05-05,06:00,Jeepney,Short Haul,Molo,44,53,9,2,1,OK
+2026-05-03,20:00,Jeepney,Short Haul,Molo,19,29,10,3,1,OK
+2026-04-21,17:00,Jeepney,Short Haul,Molo,8,22,14,10,4,ADJUSTED
+2026-05-15,16:00,Jeepney,Short Haul,Jaro,38,57,19,13,5,OK
+2026-04-27,20:00,Jeepney,Short Haul,Molo,3,13,10,7,3,OK
+2026-04-29,14:00,Jeepney,Short Haul,Jaro,50,53,3,2,1,OK
+2026-05-14,22:00,Bus,Long Haul,San Joaquin,53,76,23,2,1,ADJUSTED
+2026-04-21,16:00,Jeepney,Medium Haul,Oton,18,38,20,10,4,ADJUSTED
+2026-05-02,07:00,Modern Jeepney,Medium Haul,Pavia,37,50,13,8,3,OK
+2026-04-28,18:00,Jeepney,Short Haul,Mandurriao,26,41,15,9,3,ADJUSTED
+2026-05-14,17:00,Bus,Long Haul,Barotac Nuevo,44,70,26,11,4,ADJUSTED
+2026-05-01,18:00,Jeepney,Short Haul,La Paz,42,58,16,10,4,ADJUSTED
+2026-05-09,20:00,Jeepney,Short Haul,Mandurriao,12,26,14,7,3,OK
+2026-05-07,18:00,Bus,Long Haul,San Joaquin,12,42,30,9,3,OK
+2026-04-28,16:00,Bus,Long Haul,Pototan,59,97,38,12,4,ADJUSTED
+2026-04-23,18:00,UV Express,Medium Haul,Pavia,56,68,12,13,5,ADJUSTED
+2026-04-23,17:00,Jeepney,Short Haul,Jaro,21,32,11,10,4,OK
+2026-04-21,13:00,Jeepney,Short Haul,Jaro,27,35,8,7,3,OK
+2026-05-17,18:00,UV Express,Medium Haul,Oton,51,63,12,11,4,ADJUSTED
+2026-04-25,08:00,Bus,Long Haul,San Joaquin,46,71,25,15,5,ADJUSTED
+2026-04-30,17:00,Modern Jeepney,Medium Haul,Oton,52,62,10,12,4,ADJUSTED
+2026-04-27,18:00,Modern Jeepney,Short Haul,Jaro,44,61,17,8,3,ADJUSTED
+2026-05-16,17:00,Jeepney,Short Haul,Mandurriao,21,34,13,11,4,ADJUSTED
+2026-04-29,17:00,UV Express,Medium Haul,Oton,42,57,15,12,4,OK
+2026-05-18,17:00,Jeepney,Medium Haul,Pavia,18,40,22,8,3,OK
+2026-04-27,15:00,Jeepney,Short Haul,Mandurriao,7,10,3,6,2,OK
+2026-04-29,18:00,Jeepney,Short Haul,La Paz,51,71,20,12,4,ADJUSTED
+2026-04-28,08:00,Modern Jeepney,Short Haul,Mandurriao,7,27,20,8,3,ADJUSTED
+2026-05-02,07:00,Jeepney,Medium Haul,Oton,41,61,20,9,3,ADJUSTED
+2026-04-22,08:00,Jeepney,Short Haul,Mandurriao,25,50,25,15,5,OK
+2026-04-21,16:00,UV Express,Medium Haul,Oton,47,59,12,10,4,OK
+2026-05-06,16:00,Jeepney,Short Haul,Mandurriao,50,71,21,10,4,ADJUSTED
+2026-05-13,18:00,Modern Jeepney,Medium Haul,Leganes,25,44,19,8,3,OK
+2026-05-13,12:00,Jeepney,Short Haul,Jaro,22,32,10,4,2,OK
+2026-05-20,16:00,Modern Jeepney,Short Haul,La Paz,42,58,16,8,3,ADJUSTED
+2026-05-14,06:00,Modern Jeepney,Short Haul,Jaro,12,17,5,4,2,OK
+2026-04-25,13:00,Jeepney,Medium Haul,Leganes,27,40,13,5,2,OK
+2026-04-23,17:00,Jeepney,Short Haul,Jaro,8,23,15,10,4,ADJUSTED
+2026-05-02,06:00,Jeepney,Short Haul,Mandurriao,19,34,15,3,1,OK
+2026-04-28,08:00,Jeepney,Short Haul,Molo,55,80,25,12,4,ADJUSTED
+2026-05-12,08:00,Bus,Long Haul,Barotac Nuevo,18,44,26,8,3,OK
+2026-05-17,07:00,Jeepney,Medium Haul,Leganes,47,63,16,12,4,ADJUSTED
+2026-04-23,15:00,UV Express,Medium Haul,Leganes,38,44,6,1,1,OK
+2026-04-21,08:00,Jeepney,Short Haul,Jaro,50,69,19,9,3,ADJUSTED
+2026-04-23,17:00,UV Express,Medium Haul,Pavia,11,30,19,10,4,OK
+2026-04-25,18:00,UV Express,Medium Haul,Oton,14,33,19,15,5,OK
+2026-05-05,16:00,Modern Jeepney,Short Haul,Mandurriao,30,40,10,13,5,OK
+2026-05-04,22:00,Jeepney,Short Haul,Jaro,54,68,14,7,3,ADJUSTED
+2026-04-23,14:00,Jeepney,Short Haul,Molo,13,22,9,4,2,OK
+2026-04-21,16:00,Jeepney,Short Haul,Mandurriao,10,21,11,13,5,OK
+2026-04-25,22:00,Bus,Long Haul,Pototan,25,45,20,2,1,OK
+2026-05-16,08:00,UV Express,Medium Haul,Oton,41,53,12,15,5,OK
+2026-05-13,21:00,Bus,Long Haul,Pototan,26,45,19,6,2,OK
+2026-05-04,07:00,Jeepney,Medium Haul,Pavia,10,30,20,15,5,OK
+2026-04-27,14:00,UV Express,Long Haul,Barotac Nuevo,37,48,11,3,1,OK
+2026-05-17,07:00,Bus,Long Haul,Pototan,33,67,34,11,4,ADJUSTED
+2026-04-29,17:00,Jeepney,Short Haul,Mandurriao,42,52,10,9,3,ADJUSTED
+2026-05-05,16:00,Jeepney,Short Haul,Mandurriao,18,42,24,8,3,ADJUSTED
+2026-05-05,17:00,UV Express,Medium Haul,Pavia,5,18,13,11,4,OK
+2026-05-16,11:00,Modern Jeepney,Short Haul,La Paz,45,53,8,6,2,OK
+2026-04-30,11:00,UV Express,Medium Haul,Pavia,51,61,10,7,3,ADJUSTED
+2026-05-18,07:00,Jeepney,Short Haul,Jaro,37,49,12,13,5,OK
+2026-05-03,11:00,UV Express,Medium Haul,Pavia,48,58,10,2,1,OK
+2026-05-09,20:00,Jeepney,Short Haul,Jaro,41,52,11,7,3,OK
+2026-04-27,11:00,Jeepney,Short Haul,Mandurriao,27,30,3,4,2,OK
+2026-05-07,18:00,Jeepney,Short Haul,Jaro,0,19,19,9,3,OK
+2026-05-10,18:00,UV Express,Medium Haul,Leganes,34,49,15,10,4,OK
+2026-05-19,11:00,UV Express,Long Haul,San Joaquin,39,46,7,7,3,OK
+2026-04-24,17:00,Modern Jeepney,Short Haul,Mandurriao,7,23,16,8,3,ADJUSTED
+2026-05-20,07:00,Jeepney,Short Haul,La Paz,58,75,17,13,5,ADJUSTED
+2026-04-25,07:00,Bus,Long Haul,San Joaquin,51,93,42,15,5,ADJUSTED
+2026-05-13,07:00,Jeepney,Short Haul,Jaro,53,72,19,14,5,ADJUSTED
+2026-04-27,16:00,UV Express,Long Haul,San Joaquin,46,64,18,10,4,ADJUSTED
+2026-05-03,13:00,Jeepney,Medium Haul,Pavia,55,64,9,3,1,ADJUSTED
+2026-05-05,16:00,Jeepney,Short Haul,La Paz,6,21,15,9,3,OK
+2026-05-01,16:00,Jeepney,Short Haul,Mandurriao,10,25,15,11,4,ADJUSTED
+2026-05-19,10:00,Jeepney,Short Haul,Molo,38,49,11,7,3,OK
+2026-04-24,17:00,UV Express,Long Haul,San Joaquin,3,15,12,11,4,OK
+2026-05-03,17:00,Modern Jeepney,Medium Haul,Oton,24,37,13,15,5,OK
+2026-04-27,06:00,Jeepney,Short Haul,Molo,11,26,15,1,1,OK
+2026-05-17,08:00,Bus,Medium Haul,Leganes,25,66,41,11,4,ADJUSTED
+2026-05-09,17:00,Jeepney,Short Haul,Molo,37,50,13,11,4,OK
+2026-05-12,12:00,Modern Jeepney,Short Haul,La Paz,45,48,3,6,2,OK
+2026-05-18,17:00,Bus,Medium Haul,Oton,11,46,35,13,5,OK
+2026-04-22,10:00,UV Express,Medium Haul,Oton,42,51,9,7,3,OK
+2026-04-30,12:00,Jeepney,Short Haul,Mandurriao,50,56,6,7,3,OK
+2026-05-03,08:00,Bus,Long Haul,Pototan,52,90,38,15,5,ADJUSTED
+2026-05-20,08:00,UV Express,Medium Haul,Oton,36,56,20,11,4,OK
+2026-05-15,16:00,Jeepney,Short Haul,Mandurriao,45,65,20,12,4,ADJUSTED
+2026-05-11,14:00,Jeepney,Short Haul,Mandurriao,52,65,13,4,2,ADJUSTED
+2026-04-26,18:00,UV Express,Medium Haul,Pavia,23,37,14,14,5,OK
+2026-05-18,18:00,UV Express,Medium Haul,Oton,15,34,19,15,5,OK
+2026-05-18,16:00,Modern Jeepney,Short Haul,La Paz,56,68,12,8,3,ADJUSTED
+2026-05-02,18:00,Bus,Long Haul,Barotac Nuevo,12,42,30,8,3,OK
+2026-05-02,09:00,UV Express,Medium Haul,Pavia,24,36,12,7,3,OK
+2026-05-10,13:00,Jeepney,Short Haul,Jaro,53,58,5,4,2,OK
+2026-05-20,17:00,Jeepney,Short Haul,Mandurriao,53,70,17,9,3,ADJUSTED
+2026-05-20,12:00,Jeepney,Medium Haul,Leganes,56,68,12,2,1,ADJUSTED
+2026-05-01,16:00,UV Express,Medium Haul,Oton,51,68,17,9,3,ADJUSTED
+2026-05-16,08:00,Jeepney,Short Haul,Jaro,53,70,17,13,5,ADJUSTED
+2026-05-13,16:00,Modern Jeepney,Short Haul,Molo,3,13,10,11,4,ADJUSTED
+2026-05-18,18:00,UV Express,Long Haul,Pototan,10,27,17,9,3,OK
+2026-05-15,19:00,Bus,Medium Haul,Oton,31,46,15,2,1,OK
+2026-04-27,17:00,Jeepney,Short Haul,Jaro,48,58,10,9,3,ADJUSTED
+2026-05-20,17:00,UV Express,Long Haul,San Joaquin,6,25,19,11,4,OK
+2026-04-21,16:00,Jeepney,Short Haul,Mandurriao,45,70,25,9,3,ADJUSTED
+2026-04-21,16:00,UV Express,Medium Haul,Leganes,57,75,18,14,5,ADJUSTED
+2026-05-15,07:00,Jeepney,Short Haul,La Paz,10,22,12,13,5,OK
+2026-05-17,14:00,Jeepney,Medium Haul,Leganes,27,34,7,1,1,OK
+2026-05-20,14:00,UV Express,Medium Haul,Pavia,53,64,11,7,3,ADJUSTED
+2026-05-15,21:00,Jeepney,Medium Haul,Leganes,40,50,10,3,1,OK
+2026-05-10,14:00,Jeepney,Short Haul,Molo,22,30,8,4,2,OK
+2026-05-03,16:00,UV Express,Medium Haul,Leganes,44,58,14,10,4,OK
+2026-04-29,16:00,UV Express,Medium Haul,Pavia,22,39,17,14,5,OK
+2026-04-23,17:00,UV Express,Medium Haul,Oton,49,64,15,14,5,ADJUSTED
+2026-04-27,17:00,UV Express,Medium Haul,Oton,27,41,14,14,5,OK
+2026-04-26,08:00,Modern Jeepney,Short Haul,Mandurriao,42,60,18,9,3,ADJUSTED
+2026-04-28,16:00,Jeepney,Short Haul,La Paz,46,65,19,13,5,ADJUSTED
+2026-05-17,18:00,Jeepney,Short Haul,Mandurriao,56,67,11,12,4,ADJUSTED
+2026-04-29,15:00,Jeepney,Short Haul,Mandurriao,25,27,2,6,2,OK
+2026-05-20,09:00,Bus,Long Haul,Pototan,24,53,29,2,1,OK
+2026-04-25,17:00,Modern Jeepney,Short Haul,Molo,53,76,23,11,4,ADJUSTED
+2026-04-21,18:00,Jeepney,Medium Haul,Leganes,28,53,25,13,5,OK
+2026-05-09,07:00,Jeepney,Short Haul,La Paz,18,29,11,9,3,ADJUSTED
+2026-04-30,18:00,Bus,Long Haul,Pototan,32,73,41,15,5,ADJUSTED
+2026-05-02,18:00,Jeepney,Short Haul,Mandurriao,35,50,15,10,4,ADJUSTED
+2026-05-14,15:00,Modern Jeepney,Short Haul,Molo,13,28,15,6,2,OK
+2026-05-05,22:00,Modern Jeepney,Medium Haul,Oton,13,21,8,2,1,OK
+2026-05-17,18:00,UV Express,Long Haul,Barotac Nuevo,34,54,20,10,4,OK
+2026-05-12,18:00,Jeepney,Short Haul,Mandurriao,29,53,24,10,4,OK
+2026-05-14,18:00,Bus,Medium Haul,Oton,27,65,38,12,4,ADJUSTED
+2026-04-29,08:00,Bus,Long Haul,Pototan,16,43,27,15,5,OK
+2026-05-10,08:00,Modern Jeepney,Short Haul,Jaro,2,19,17,8,3,ADJUSTED
+2026-05-07,15:00,UV Express,Medium Haul,Leganes,15,26,11,2,1,OK
+2026-05-20,09:00,Bus,Long Haul,San Joaquin,45,62,17,4,2,ADJUSTED
+2026-05-07,13:00,UV Express,Long Haul,San Joaquin,29,34,5,2,1,OK
+2026-05-16,18:00,Jeepney,Short Haul,Molo,51,72,21,14,5,ADJUSTED
+2026-05-10,18:00,Modern Jeepney,Short Haul,Mandurriao,28,39,11,15,5,OK
+2026-05-02,17:00,UV Express,Medium Haul,Leganes,44,58,14,8,3,OK
+2026-05-20,18:00,Jeepney,Short Haul,Molo,14,25,11,11,4,OK
+2026-04-27,18:00,UV Express,Long Haul,Barotac Nuevo,45,57,12,12,4,OK
+2026-04-22,13:00,Bus,Long Haul,San Joaquin,55,73,18,2,1,ADJUSTED
+2026-04-23,08:00,Bus,Medium Haul,Oton,24,69,45,8,3,ADJUSTED
+2026-05-07,16:00,Jeepney,Medium Haul,Leganes,50,72,22,10,4,ADJUSTED
+2026-04-25,17:00,Jeepney,Short Haul,Jaro,37,52,15,12,4,OK
+2026-05-07,13:00,Bus,Long Haul,Pototan,41,60,19,4,2,ADJUSTED
+2026-05-14,17:00,UV Express,Medium Haul,Oton,58,70,12,15,5,ADJUSTED
+2026-05-07,07:00,Jeepney,Medium Haul,Leganes,46,58,12,10,4,ADJUSTED
+2026-05-17,18:00,Bus,Long Haul,Pototan,52,77,25,11,4,ADJUSTED
+2026-05-07,18:00,Bus,Long Haul,Pototan,53,98,45,8,3,ADJUSTED
+2026-04-22,17:00,Modern Jeepney,Medium Haul,Oton,51,65,14,12,4,ADJUSTED
+2026-04-22,21:00,Modern Jeepney,Short Haul,Mandurriao,57,70,13,6,2,ADJUSTED
+2026-05-18,18:00,Jeepney,Medium Haul,Pavia,37,57,20,10,4,OK
+2026-05-12,18:00,Jeepney,Medium Haul,Pavia,22,44,22,11,4,ADJUSTED
+2026-05-13,20:00,Jeepney,Short Haul,Molo,24,31,7,5,2,OK
+2026-04-25,18:00,UV Express,Long Haul,Pototan,41,60,19,11,4,ADJUSTED
+2026-04-21,17:00,Jeepney,Medium Haul,Oton,6,25,19,13,5,OK
+2026-04-21,06:00,Jeepney,Short Haul,Jaro,21,34,13,6,2,OK
+2026-05-09,15:00,Jeepney,Short Haul,Mandurriao,16,18,2,5,2,OK
+2026-05-20,16:00,Modern Jeepney,Short Haul,Jaro,17,30,13,10,4,ADJUSTED
+2026-04-22,10:00,Bus,Long Haul,San Joaquin,48,72,24,4,2,ADJUSTED
+2026-05-11,09:00,Jeepney,Medium Haul,Pavia,40,52,12,1,1,OK
+2026-05-02,21:00,Jeepney,Short Haul,Molo,9,11,2,3,1,OK
+2026-05-16,19:00,UV Express,Medium Haul,Leganes,9,14,5,1,1,OK
+2026-04-26,18:00,Jeepney,Short Haul,Mandurriao,56,76,20,8,3,ADJUSTED
+2026-05-13,13:00,Jeepney,Short Haul,Molo,6,14,8,5,2,OK
+2026-04-24,06:00,Jeepney,Short Haul,Molo,47,55,8,4,2,OK
+2026-05-13,07:00,Jeepney,Short Haul,Jaro,49,70,21,9,3,ADJUSTED
+2026-05-01,09:00,Jeepney,Short Haul,Mandurriao,37,43,6,3,1,OK
+2026-05-14,06:00,Modern Jeepney,Short Haul,Mandurriao,26,34,8,3,1,OK
+2026-05-17,06:00,Jeepney,Short Haul,Mandurriao,51,64,13,2,1,ADJUSTED
+2026-05-07,20:00,Bus,Long Haul,Barotac Nuevo,32,61,29,6,2,ADJUSTED
+2026-04-26,17:00,Jeepney,Short Haul,Mandurriao,0,11,11,14,5,OK
+2026-05-14,08:00,Modern Jeepney,Short Haul,La Paz,43,66,23,10,4,ADJUSTED
+2026-04-25,07:00,UV Express,Medium Haul,Leganes,52,67,15,10,4,ADJUSTED
+2026-05-10,16:00,Jeepney,Short Haul,Mandurriao,59,82,23,11,4,ADJUSTED
+2026-04-22,06:00,UV Express,Medium Haul,Leganes,33,43,10,5,2,OK
+2026-04-26,20:00,Jeepney,Medium Haul,Oton,3,11,8,4,2,OK
+2026-05-12,13:00,Bus,Medium Haul,Pavia,16,46,30,7,3,OK
+2026-05-01,12:00,Jeepney,Short Haul,Molo,3,7,4,7,3,OK
+2026-05-06,12:00,Jeepney,Medium Haul,Oton,42,45,3,5,2,OK
+2026-05-06,07:00,Jeepney,Short Haul,Molo,53,72,19,8,3,ADJUSTED
+2026-04-21,17:00,Bus,Medium Haul,Oton,25,67,42,12,4,ADJUSTED
+2026-04-29,17:00,Modern Jeepney,Short Haul,Jaro,3,25,22,11,4,ADJUSTED
+2026-05-18,17:00,Modern Jeepney,Medium Haul,Oton,0,10,10,9,3,OK
+2026-05-17,07:00,Jeepney,Short Haul,Jaro,6,20,14,15,5,OK
+2026-04-26,16:00,UV Express,Medium Haul,Leganes,29,46,17,13,5,OK
+2026-05-06,16:00,Jeepney,Short Haul,La Paz,49,64,15,15,5,ADJUSTED
+2026-05-19,19:00,Bus,Long Haul,San Joaquin,8,38,30,5,2,OK
+2026-04-23,11:00,Jeepney,Short Haul,Jaro,34,44,10,3,1,OK
+2026-05-10,11:00,Jeepney,Short Haul,Mandurriao,7,12,5,3,1,OK
+2026-05-18,16:00,Jeepney,Short Haul,Jaro,23,33,10,15,5,OK
+2026-05-17,17:00,Jeepney,Short Haul,Jaro,18,33,15,12,4,ADJUSTED
+2026-04-24,15:00,Modern Jeepney,Short Haul,Molo,35,41,6,6,2,OK
+2026-05-09,14:00,Jeepney,Short Haul,Molo,49,60,11,7,3,ADJUSTED
+2026-05-16,16:00,UV Express,Medium Haul,Oton,51,68,17,12,4,ADJUSTED
+2026-04-23,18:00,Jeepney,Short Haul,Molo,58,70,12,15,5,ADJUSTED
+2026-05-09,15:00,Modern Jeepney,Medium Haul,Pavia,42,45,3,2,1,OK
+2026-05-10,20:00,Jeepney,Short Haul,Mandurriao,26,33,7,2,1,OK
+2026-04-27,16:00,Jeepney,Short Haul,Jaro,31,53,22,11,4,ADJUSTED
+2026-05-10,20:00,Modern Jeepney,Short Haul,Mandurriao,13,15,2,7,3,OK
+2026-04-29,18:00,Jeepney,Short Haul,Mandurriao,56,72,16,10,4,ADJUSTED
+2026-04-21,11:00,Jeepney,Short Haul,La Paz,17,25,8,5,2,OK
+2026-04-28,19:00,Bus,Long Haul,Barotac Nuevo,27,51,24,2,1,OK
+2026-04-27,07:00,Bus,Long Haul,Barotac Nuevo,59,96,37,13,5,ADJUSTED
+2026-05-08,19:00,Jeepney,Medium Haul,Pavia,28,36,8,1,1,OK
+2026-04-28,17:00,Jeepney,Short Haul,Molo,15,39,24,14,5,OK
+2026-04-21,07:00,UV Express,Long Haul,Barotac Nuevo,34,46,12,15,5,OK
+2026-05-01,17:00,Jeepney,Short Haul,Jaro,46,70,24,11,4,ADJUSTED
+2026-05-18,21:00,Jeepney,Short Haul,Mandurriao,58,63,5,2,1,ADJUSTED
+2026-05-15,07:00,Jeepney,Medium Haul,Leganes,58,80,22,15,5,ADJUSTED
+2026-05-15,16:00,UV Express,Long Haul,Pototan,30,48,18,8,3,OK
+2026-05-08,17:00,UV Express,Long Haul,San Joaquin,3,23,20,11,4,OK
+2026-05-13,18:00,Jeepney,Short Haul,Jaro,36,50,14,14,5,OK
+2026-05-20,13:00,Jeepney,Short Haul,La Paz,16,30,14,7,3,OK
+2026-04-30,08:00,Jeepney,Medium Haul,Oton,38,49,11,8,3,ADJUSTED
+2026-04-23,07:00,UV Express,Medium Haul,Leganes,47,65,18,13,5,ADJUSTED
+2026-04-27,16:00,Jeepney,Short Haul,Mandurriao,45,64,19,12,4,ADJUSTED
+2026-05-18,15:00,Jeepney,Short Haul,La Paz,25,27,2,6,2,OK
+2026-05-06,21:00,UV Express,Medium Haul,Leganes,47,59,12,6,2,OK
+2026-05-16,07:00,Jeepney,Short Haul,La Paz,38,54,16,13,5,OK
+2026-05-06,17:00,UV Express,Medium Haul,Pavia,40,57,17,9,3,OK
+2026-05-15,07:00,Jeepney,Short Haul,Mandurriao,3,19,16,15,5,OK
+2026-05-10,08:00,Jeepney,Short Haul,Mandurriao,29,54,25,13,5,OK
+2026-05-18,15:00,Jeepney,Short Haul,Mandurriao,29,44,15,4,2,OK
+2026-05-07,14:00,UV Express,Long Haul,Barotac Nuevo,21,30,9,1,1,OK
+2026-04-22,17:00,Bus,Medium Haul,Pavia,10,37,27,14,5,OK
+2026-04-21,19:00,UV Express,Medium Haul,Pavia,1,12,11,4,2,OK
+2026-05-06,17:00,Jeepney,Short Haul,Molo,43,55,12,8,3,ADJUSTED
+2026-05-20,21:00,UV Express,Long Haul,Barotac Nuevo,11,22,11,5,2,OK
+2026-05-02,18:00,Jeepney,Short Haul,Jaro,29,51,22,8,3,ADJUSTED
+2026-04-25,16:00,Jeepney,Medium Haul,Pavia,35,46,11,13,5,OK
+2026-04-25,18:00,Bus,Medium Haul,Pavia,17,42,25,9,3,OK
+2026-05-17,17:00,Jeepney,Short Haul,Jaro,25,43,18,14,5,OK
+2026-05-13,07:00,Jeepney,Short Haul,Mandurriao,52,70,18,12,4,ADJUSTED
+2026-04-29,17:00,Jeepney,Medium Haul,Leganes,6,22,16,13,5,OK
+2026-04-29,07:00,Jeepney,Short Haul,Molo,0,16,16,13,5,OK
+2026-04-23,16:00,Jeepney,Short Haul,Molo,57,69,12,12,4,ADJUSTED
+2026-05-09,17:00,Modern Jeepney,Medium Haul,Oton,25,44,19,10,4,OK
+2026-05-06,07:00,Jeepney,Medium Haul,Pavia,22,47,25,9,3,OK
+2026-05-06,08:00,Bus,Long Haul,San Joaquin,25,67,42,10,4,ADJUSTED
+2026-04-23,20:00,UV Express,Medium Haul,Leganes,44,51,7,4,2,OK
+2026-05-10,16:00,Jeepney,Short Haul,Molo,5,21,16,9,3,OK
+2026-05-14,08:00,Jeepney,Short Haul,Mandurriao,5,23,18,15,5,OK
+2026-05-12,17:00,Jeepney,Medium Haul,Pavia,43,53,10,13,5,OK
+2026-05-14,16:00,Modern Jeepney,Short Haul,La Paz,7,29,22,13,5,OK
+2026-04-21,16:00,Jeepney,Short Haul,Jaro,23,46,23,10,4,ADJUSTED
+2026-05-14,22:00,UV Express,Medium Haul,Oton,21,29,8,2,1,OK
+2026-05-10,17:00,Jeepney,Short Haul,Mandurriao,18,43,25,13,5,OK
+2026-05-01,11:00,Modern Jeepney,Medium Haul,Pavia,36,43,7,5,2,OK
+2026-05-07,18:00,Jeepney,Short Haul,La Paz,17,33,16,8,3,OK
+2026-04-28,18:00,Jeepney,Short Haul,Jaro,30,49,19,12,4,ADJUSTED
+2026-04-24,07:00,Bus,Long Haul,Pototan,36,67,31,12,4,ADJUSTED
+2026-04-26,08:00,UV Express,Medium Haul,Leganes,29,42,13,14,5,OK
+2026-04-28,08:00,Jeepney,Short Haul,Jaro,56,79,23,12,4,ADJUSTED
+2026-05-10,17:00,Bus,Long Haul,Barotac Nuevo,41,69,28,12,4,ADJUSTED
+2026-05-20,16:00,Modern Jeepney,Short Haul,Jaro,32,46,14,10,4,OK
+2026-04-23,16:00,Bus,Long Haul,Pototan,9,50,41,12,4,OK
+2026-05-06,20:00,UV Express,Long Haul,Pototan,36,41,5,3,1,OK
+2026-05-20,18:00,Jeepney,Short Haul,Jaro,11,30,19,9,3,OK
+2026-05-15,07:00,Jeepney,Short Haul,Molo,53,65,12,9,3,ADJUSTED
+2026-04-23,10:00,Jeepney,Short Haul,Jaro,29,40,11,3,1,OK
+2026-05-15,14:00,Modern Jeepney,Short Haul,Molo,26,30,4,6,2,OK
+2026-05-19,12:00,UV Express,Medium Haul,Leganes,38,50,12,5,2,OK
+2026-05-08,17:00,Jeepney,Short Haul,La Paz,8,29,21,14,5,OK
+2026-05-04,18:00,Jeepney,Short Haul,Mandurriao,53,70,17,11,4,ADJUSTED
+2026-05-08,09:00,UV Express,Medium Haul,Oton,20,32,12,7,3,OK
+2026-04-22,16:00,Bus,Long Haul,Barotac Nuevo,11,44,33,15,5,OK
+2026-05-12,18:00,Modern Jeepney,Medium Haul,Leganes,54,79,25,9,3,ADJUSTED
+2026-04-23,13:00,Jeepney,Short Haul,Mandurriao,28,43,15,3,1,OK
+2026-05-06,08:00,Jeepney,Short Haul,Molo,32,52,20,8,3,ADJUSTED
+2026-05-19,15:00,Jeepney,Short Haul,Mandurriao,42,55,13,6,2,OK
+2026-04-29,07:00,Bus,Medium Haul,Leganes,52,93,41,12,4,ADJUSTED
+2026-04-24,20:00,Jeepney,Short Haul,Jaro,14,29,15,2,1,OK
+2026-04-21,07:00,Modern Jeepney,Short Haul,Jaro,1,21,20,10,4,ADJUSTED
+2026-04-24,14:00,Jeepney,Medium Haul,Leganes,51,54,3,6,2,OK
+2026-04-21,16:00,Modern Jeepney,Short Haul,La Paz,38,57,19,10,4,ADJUSTED
+2026-05-04,22:00,UV Express,Medium Haul,Oton,52,58,6,5,2,OK
+2026-05-11,08:00,UV Express,Medium Haul,Leganes,43,58,15,11,4,OK
+2026-05-06,07:00,Jeepney,Short Haul,La Paz,53,64,11,10,4,ADJUSTED
+2026-05-10,06:00,Jeepney,Short Haul,Jaro,17,25,8,2,1,OK
+2026-05-14,07:00,Jeepney,Short Haul,Molo,2,24,22,10,4,ADJUSTED
+2026-04-28,08:00,Bus,Long Haul,San Joaquin,6,45,39,12,4,OK
+2026-04-27,17:00,Bus,Long Haul,Barotac Nuevo,42,67,25,14,5,ADJUSTED
+2026-04-23,08:00,Modern Jeepney,Short Haul,La Paz,17,37,20,14,5,OK
+2026-05-07,06:00,UV Express,Medium Haul,Oton,43,49,6,6,2,OK
+2026-04-21,18:00,UV Express,Long Haul,Barotac Nuevo,37,57,20,13,5,OK
+2026-05-06,11:00,Jeepney,Short Haul,La Paz,36,42,6,2,1,OK
+2026-05-02,11:00,Bus,Long Haul,Pototan,57,87,30,3,1,ADJUSTED
+2026-05-17,08:00,Jeepney,Short Haul,Mandurriao,32,52,20,11,4,ADJUSTED
+2026-05-09,21:00,Jeepney,Short Haul,Molo,43,49,6,2,1,OK
+2026-05-12,08:00,Modern Jeepney,Short Haul,Molo,58,73,15,10,4,ADJUSTED
+2026-05-13,18:00,Jeepney,Medium Haul,Leganes,30,48,18,10,4,ADJUSTED
+2026-05-12,18:00,Jeepney,Short Haul,Jaro,57,79,22,11,4,ADJUSTED
+2026-05-04,07:00,UV Express,Medium Haul,Pavia,10,29,19,8,3,OK
+2026-05-20,22:00,Jeepney,Medium Haul,Leganes,3,12,9,3,1,OK
+2026-04-26,08:00,UV Express,Medium Haul,Oton,58,77,19,13,5,ADJUSTED
+2026-04-26,07:00,Jeepney,Short Haul,La Paz,17,27,10,11,4,OK
+2026-05-03,18:00,Jeepney,Medium Haul,Leganes,3,13,10,10,4,OK
+2026-05-09,17:00,Jeepney,Medium Haul,Oton,48,65,17,13,5,ADJUSTED
+2026-05-12,16:00,Jeepney,Medium Haul,Leganes,33,47,14,11,4,ADJUSTED
+2026-04-28,07:00,UV Express,Medium Haul,Leganes,28,48,20,9,3,OK
+2026-05-17,16:00,Jeepney,Short Haul,La Paz,23,34,11,12,4,ADJUSTED
+2026-05-17,18:00,Modern Jeepney,Medium Haul,Pavia,21,46,25,9,3,ADJUSTED
+2026-04-22,08:00,Jeepney,Short Haul,Jaro,1,19,18,12,4,ADJUSTED
+2026-05-11,09:00,UV Express,Medium Haul,Oton,43,51,8,2,1,OK
+2026-05-20,06:00,Bus,Long Haul,San Joaquin,5,33,28,4,2,OK
+2026-04-21,08:00,UV Express,Medium Haul,Oton,41,60,19,11,4,ADJUSTED
+2026-05-18,18:00,Jeepney,Medium Haul,Oton,24,42,18,13,5,OK
+2026-05-05,14:00,Jeepney,Short Haul,La Paz,54,59,5,5,2,OK
+2026-04-21,22:00,Jeepney,Short Haul,Jaro,56,58,2,1,1,OK
+2026-04-25,12:00,Modern Jeepney,Short Haul,Mandurriao,20,22,2,7,3,OK
+2026-05-18,17:00,Jeepney,Medium Haul,Pavia,54,68,14,13,5,ADJUSTED
+2026-05-19,08:00,Modern Jeepney,Short Haul,Molo,58,69,11,15,5,ADJUSTED
+2026-05-06,11:00,Modern Jeepney,Short Haul,Mandurriao,15,30,15,1,1,OK
+2026-05-09,08:00,Jeepney,Short Haul,La Paz,30,47,17,10,4,ADJUSTED
+2026-04-24,10:00,UV Express,Medium Haul,Pavia,13,19,6,6,2,OK
+2026-04-23,16:00,Jeepney,Short Haul,Molo,38,58,20,9,3,ADJUSTED
+2026-05-07,22:00,Jeepney,Short Haul,La Paz,27,33,6,5,2,OK
+2026-05-07,17:00,UV Express,Long Haul,Pototan,31,47,16,9,3,OK
+2026-05-02,08:00,Modern Jeepney,Short Haul,Jaro,27,38,11,13,5,OK
+2026-05-18,07:00,UV Express,Medium Haul,Oton,50,68,18,14,5,ADJUSTED
+2026-05-20,07:00,Jeepney,Short Haul,Jaro,54,76,22,11,4,ADJUSTED
+2026-05-19,16:00,Jeepney,Short Haul,Jaro,48,65,17,12,4,ADJUSTED
+2026-05-04,18:00,UV Express,Long Haul,Barotac Nuevo,8,20,12,10,4,OK
+2026-05-11,20:00,UV Express,Long Haul,San Joaquin,57,63,6,1,1,ADJUSTED
+2026-04-26,06:00,UV Express,Medium Haul,Leganes,44,50,6,5,2,OK
+2026-04-23,16:00,Jeepney,Short Haul,Mandurriao,21,46,25,10,4,ADJUSTED
+2026-05-18,15:00,Modern Jeepney,Medium Haul,Pavia,31,36,5,7,3,OK
+2026-04-29,17:00,Jeepney,Short Haul,Jaro,4,18,14,12,4,ADJUSTED
+2026-04-25,16:00,Jeepney,Short Haul,Mandurriao,22,44,22,14,5,OK
+2026-05-14,17:00,Bus,Long Haul,San Joaquin,4,46,42,10,4,OK
+2026-05-19,17:00,Jeepney,Short Haul,Mandurriao,41,51,10,12,4,ADJUSTED
+2026-05-07,07:00,Bus,Long Haul,Barotac Nuevo,52,85,33,10,4,ADJUSTED
+2026-05-04,18:00,Jeepney,Short Haul,La Paz,31,54,23,13,5,OK
+2026-05-11,07:00,Jeepney,Short Haul,Mandurriao,58,68,10,9,3,ADJUSTED
+2026-04-23,17:00,Modern Jeepney,Short Haul,Jaro,9,31,22,10,4,OK
+2026-05-18,13:00,Bus,Long Haul,Pototan,58,87,29,1,1,ADJUSTED
+2026-04-21,16:00,UV Express,Medium Haul,Leganes,38,53,15,10,4,OK
+2026-05-10,19:00,UV Express,Long Haul,San Joaquin,57,63,6,1,1,ADJUSTED
+2026-05-19,19:00,UV Express,Medium Haul,Pavia,14,21,7,5,2,OK
+2026-05-11,18:00,UV Express,Medium Haul,Oton,6,21,15,14,5,OK
+2026-05-13,16:00,UV Express,Medium Haul,Oton,28,47,19,15,5,OK
+2026-04-21,17:00,Jeepney,Short Haul,Molo,58,75,17,13,5,ADJUSTED
+2026-04-23,16:00,Modern Jeepney,Medium Haul,Leganes,46,70,24,12,4,ADJUSTED
+2026-05-08,18:00,Jeepney,Short Haul,Jaro,2,22,20,13,5,OK
+2026-05-15,12:00,Bus,Long Haul,San Joaquin,18,44,26,7,3,OK
+2026-04-30,22:00,Bus,Long Haul,Pototan,9,32,23,5,2,OK
+2026-05-12,20:00,Jeepney,Short Haul,Jaro,27,41,14,4,2,OK
+2026-05-16,17:00,UV Express,Medium Haul,Oton,28,44,16,15,5,OK
+2026-04-23,09:00,Bus,Long Haul,Pototan,14,35,21,2,1,OK
+2026-04-28,07:00,Jeepney,Medium Haul,Oton,34,46,12,13,5,OK
+2026-05-04,18:00,Modern Jeepney,Short Haul,La Paz,5,24,19,14,5,OK
+2026-05-14,08:00,Bus,Long Haul,San Joaquin,11,55,44,9,3,OK
+2026-05-08,18:00,Jeepney,Short Haul,Jaro,46,65,19,8,3,ADJUSTED
+2026-05-05,16:00,UV Express,Medium Haul,Pavia,37,57,20,8,3,OK
+2026-05-12,13:00,Jeepney,Short Haul,Molo,12,23,11,7,3,OK
+2026-05-13,20:00,Bus,Long Haul,San Joaquin,28,52,24,6,2,OK
+2026-04-22,16:00,Bus,Long Haul,San Joaquin,18,56,38,9,3,OK
+2026-05-17,16:00,Bus,Long Haul,San Joaquin,2,43,41,9,3,OK
+2026-04-30,16:00,Jeepney,Short Haul,La Paz,7,18,11,12,4,ADJUSTED
+2026-04-22,12:00,Bus,Long Haul,Barotac Nuevo,7,37,30,4,2,OK
+2026-05-16,18:00,UV Express,Medium Haul,Leganes,54,70,16,11,4,ADJUSTED
+2026-05-07,08:00,Jeepney,Short Haul,La Paz,57,69,12,12,4,ADJUSTED
+2026-04-28,20:00,UV Express,Medium Haul,Pavia,19,25,6,6,2,OK
+2026-04-21,18:00,Jeepney,Short Haul,Mandurriao,46,56,10,14,5,OK
+2026-04-29,10:00,Modern Jeepney,Short Haul,Mandurriao,3,14,11,7,3,OK
+2026-05-01,17:00,Jeepney,Medium Haul,Oton,50,62,12,8,3,ADJUSTED
+2026-05-12,16:00,Jeepney,Short Haul,Mandurriao,20,30,10,15,5,OK
+2026-05-06,10:00,Jeepney,Short Haul,Jaro,2,15,13,6,2,OK
+2026-04-27,22:00,UV Express,Long Haul,Barotac Nuevo,44,49,5,4,2,OK
+2026-05-19,07:00,Jeepney,Medium Haul,Oton,7,28,21,15,5,OK
+2026-04-30,08:00,UV Express,Medium Haul,Leganes,22,34,12,13,5,OK
+2026-05-13,16:00,Jeepney,Short Haul,Molo,15,32,17,14,5,OK
+2026-05-16,16:00,Jeepney,Short Haul,La Paz,12,36,24,13,5,OK
+2026-04-23,16:00,Modern Jeepney,Short Haul,Mandurriao,2,14,12,12,4,OK
+2026-05-08,17:00,UV Express,Medium Haul,Pavia,47,59,12,8,3,OK
+2026-05-15,17:00,Jeepney,Short Haul,Jaro,8,24,16,8,3,ADJUSTED
+2026-05-14,16:00,UV Express,Medium Haul,Pavia,59,73,14,15,5,ADJUSTED
+2026-05-03,07:00,Bus,Medium Haul,Leganes,13,45,32,12,4,OK
+2026-05-18,11:00,UV Express,Medium Haul,Oton,12,20,8,2,1,OK
+2026-05-16,08:00,Jeepney,Short Haul,Molo,52,65,13,12,4,ADJUSTED
+2026-04-27,08:00,Jeepney,Short Haul,Jaro,56,70,14,10,4,ADJUSTED
+2026-05-15,16:00,Bus,Long Haul,Barotac Nuevo,6,37,31,15,5,OK
+2026-04-24,08:00,Jeepney,Short Haul,Molo,14,37,23,14,5,OK
+2026-05-03,09:00,Bus,Long Haul,Barotac Nuevo,6,34,28,5,2,OK
+2026-05-10,08:00,Modern Jeepney,Short Haul,Molo,37,50,13,12,4,ADJUSTED
+2026-04-21,21:00,Bus,Long Haul,Pototan,33,63,30,2,1,ADJUSTED
+2026-04-28,21:00,UV Express,Medium Haul,Leganes,40,52,12,4,2,OK
+2026-05-04,16:00,Bus,Long Haul,Pototan,21,46,25,8,3,OK
+2026-05-06,19:00,Jeepney,Short Haul,Molo,23,25,2,3,1,OK
+2026-05-04,18:00,UV Express,Medium Haul,Leganes,48,68,20,9,3,ADJUSTED
+2026-05-02,16:00,Jeepney,Short Haul,Mandurriao,36,55,19,13,5,OK
+2026-05-09,06:00,Jeepney,Medium Haul,Oton,43,50,7,2,1,OK
+2026-05-13,18:00,UV Express,Medium Haul,Leganes,0,19,19,8,3,OK
+2026-05-05,17:00,Bus,Long Haul,Barotac Nuevo,9,40,31,8,3,OK
+2026-05-18,16:00,Bus,Long Haul,Pototan,42,72,30,12,4,ADJUSTED
+2026-04-22,18:00,UV Express,Long Haul,Pototan,15,30,15,10,4,OK
+2026-04-22,16:00,Jeepney,Short Haul,La Paz,45,70,25,8,3,ADJUSTED
+2026-05-13,17:00,Jeepney,Short Haul,Mandurriao,7,23,16,9,3,OK
+2026-05-12,20:00,UV Express,Medium Haul,Oton,55,60,5,6,2,ADJUSTED
+2026-05-09,11:00,Jeepney,Short Haul,Molo,48,63,15,5,2,ADJUSTED
+2026-05-15,17:00,Jeepney,Short Haul,Jaro,24,44,20,10,4,ADJUSTED
+2026-05-16,15:00,Jeepney,Short Haul,Jaro,49,60,11,2,1,ADJUSTED
+2026-05-20,17:00,Jeepney,Medium Haul,Pavia,11,30,19,13,5,OK
+2026-05-19,18:00,Jeepney,Short Haul,Molo,24,47,23,12,4,ADJUSTED
+2026-05-12,07:00,Jeepney,Short Haul,La Paz,16,32,16,9,3,ADJUSTED
+2026-05-16,17:00,Jeepney,Medium Haul,Leganes,59,69,10,9,3,ADJUSTED
+2026-05-16,08:00,Jeepney,Short Haul,La Paz,25,44,19,12,4,ADJUSTED
+2026-05-12,17:00,Bus,Long Haul,Pototan,45,82,37,15,5,ADJUSTED
+2026-05-07,15:00,Jeepney,Short Haul,Molo,47,52,5,4,2,OK
+2026-05-10,18:00,Jeepney,Short Haul,Jaro,13,37,24,8,3,OK
+2026-04-30,07:00,UV Express,Medium Haul,Pavia,40,54,14,10,4,OK
+2026-04-26,17:00,Jeepney,Short Haul,Jaro,35,48,13,8,3,OK
+2026-05-05,09:00,Bus,Long Haul,San Joaquin,56,74,18,5,2,ADJUSTED
+2026-05-12,18:00,UV Express,Long Haul,San Joaquin,22,35,13,13,5,OK
+2026-05-01,19:00,Jeepney,Medium Haul,Leganes,42,57,15,1,1,OK
+2026-05-18,22:00,Jeepney,Short Haul,Mandurriao,5,18,13,7,3,OK
+2026-04-25,18:00,Bus,Long Haul,Barotac Nuevo,46,87,41,10,4,ADJUSTED
+2026-04-21,18:00,Bus,Long Haul,Barotac Nuevo,4,40,36,13,5,OK
+2026-04-28,08:00,Jeepney,Short Haul,La Paz,42,61,19,14,5,ADJUSTED
+2026-05-11,10:00,UV Express,Medium Haul,Pavia,24,32,8,3,1,OK
+2026-05-18,15:00,Jeepney,Medium Haul,Pavia,17,19,2,6,2,OK
+2026-05-02,18:00,Bus,Long Haul,Pototan,12,49,37,15,5,OK
+2026-05-02,19:00,Jeepney,Short Haul,Mandurriao,42,57,15,4,2,OK
+2026-04-25,08:00,Bus,Medium Haul,Pavia,13,39,26,12,4,OK
+2026-04-27,20:00,UV Express,Medium Haul,Leganes,27,35,8,2,1,OK
+2026-04-24,17:00,UV Express,Medium Haul,Oton,17,33,16,12,4,OK
+2026-04-26,16:00,Modern Jeepney,Short Haul,La Paz,58,79,21,8,3,ADJUSTED
+2026-05-03,08:00,Jeepney,Short Haul,La Paz,59,84,25,9,3,ADJUSTED
+2026-05-10,07:00,Jeepney,Short Haul,Molo,56,69,13,11,4,ADJUSTED
+2026-05-20,16:00,Jeepney,Short Haul,Molo,27,44,17,15,5,OK
+2026-05-05,17:00,Jeepney,Short Haul,La Paz,50,61,11,15,5,ADJUSTED
+2026-04-23,08:00,UV Express,Medium Haul,Pavia,55,75,20,10,4,ADJUSTED
+2026-05-13,16:00,Jeepney,Medium Haul,Oton,26,42,16,8,3,OK
+2026-04-28,18:00,Jeepney,Short Haul,Mandurriao,31,55,24,14,5,OK
+2026-05-10,18:00,Bus,Long Haul,Barotac Nuevo,46,83,37,15,5,ADJUSTED
+2026-05-06,21:00,Bus,Long Haul,Pototan,8,29,21,7,3,OK
+2026-05-03,11:00,Bus,Long Haul,San Joaquin,39,54,15,1,1,OK
+2026-05-08,10:00,Bus,Medium Haul,Leganes,31,59,28,2,1,OK
+2026-05-18,17:00,Jeepney,Medium Haul,Oton,19,44,25,10,4,ADJUSTED
+2026-04-30,14:00,Jeepney,Short Haul,Mandurriao,27,40,13,2,1,OK
+2026-05-20,07:00,UV Express,Long Haul,San Joaquin,32,45,13,10,4,OK
+2026-05-09,08:00,UV Express,Medium Haul,Oton,3,18,15,11,4,OK
+2026-05-07,13:00,Jeepney,Short Haul,Jaro,45,50,5,3,1,OK
+2026-05-14,09:00,UV Express,Long Haul,Barotac Nuevo,56,63,7,5,2,ADJUSTED
+2026-05-09,09:00,Jeepney,Medium Haul,Leganes,33,48,15,3,1,OK
+2026-05-18,08:00,Jeepney,Short Haul,Mandurriao,47,59,12,12,4,ADJUSTED
+2026-05-16,07:00,Modern Jeepney,Short Haul,Molo,2,18,16,9,3,ADJUSTED
+2026-05-13,17:00,Modern Jeepney,Short Haul,Molo,25,46,21,8,3,OK
+2026-05-16,16:00,Modern Jeepney,Short Haul,Jaro,7,24,17,14,5,OK
+2026-04-25,17:00,Jeepney,Medium Haul,Leganes,5,16,11,14,5,OK
+2026-05-16,08:00,Bus,Long Haul,San Joaquin,15,43,28,10,4,OK
+2026-05-11,08:00,Jeepney,Short Haul,Mandurriao,23,46,23,14,5,OK
+2026-05-20,17:00,Jeepney,Medium Haul,Oton,47,72,25,10,4,ADJUSTED
+2026-05-13,16:00,Bus,Long Haul,Barotac Nuevo,38,81,43,8,3,ADJUSTED
+2026-04-29,15:00,Bus,Long Haul,San Joaquin,29,45,16,2,1,OK
+2026-05-02,11:00,Bus,Long Haul,Pototan,44,70,26,1,1,ADJUSTED
+2026-05-11,19:00,UV Express,Medium Haul,Oton,12,21,9,5,2,OK
+2026-04-21,10:00,UV Express,Long Haul,Barotac Nuevo,4,14,10,7,3,OK
+2026-05-16,15:00,Modern Jeepney,Short Haul,Jaro,24,31,7,2,1,OK
+2026-05-16,17:00,Jeepney,Short Haul,Jaro,19,41,22,8,3,ADJUSTED
+2026-04-21,16:00,Jeepney,Short Haul,Mandurriao,53,78,25,15,5,ADJUSTED
+2026-05-05,10:00,Jeepney,Medium Haul,Leganes,17,22,5,4,2,OK
+2026-04-22,14:00,Jeepney,Medium Haul,Oton,46,53,7,4,2,OK
+2026-05-20,18:00,UV Express,Medium Haul,Pavia,17,30,13,9,3,OK
+2026-05-12,08:00,Modern Jeepney,Short Haul,Mandurriao,1,22,21,12,4,ADJUSTED
+2026-05-06,07:00,Jeepney,Short Haul,Molo,9,22,13,11,4,ADJUSTED
+2026-05-15,09:00,Jeepney,Short Haul,Mandurriao,54,66,12,4,2,ADJUSTED
+2026-04-28,18:00,UV Express,Medium Haul,Oton,44,61,17,15,5,ADJUSTED
+2026-05-03,07:00,Jeepney,Medium Haul,Pavia,49,72,23,10,4,ADJUSTED
+2026-05-11,22:00,Bus,Medium Haul,Leganes,46,65,19,6,2,ADJUSTED
+2026-04-21,16:00,Modern Jeepney,Short Haul,Mandurriao,11,23,12,11,4,OK
+2026-05-06,22:00,Modern Jeepney,Short Haul,Mandurriao,46,55,9,1,1,OK
+2026-05-19,20:00,Modern Jeepney,Short Haul,La Paz,12,20,8,2,1,OK
+2026-04-27,14:00,UV Express,Medium Haul,Pavia,49,61,12,3,1,ADJUSTED
+2026-04-25,08:00,Jeepney,Short Haul,Molo,46,71,25,8,3,ADJUSTED
+2026-05-12,08:00,UV Express,Long Haul,Barotac Nuevo,56,70,14,10,4,ADJUSTED
+2026-05-19,08:00,Modern Jeepney,Short Haul,Mandurriao,54,69,15,13,5,ADJUSTED
+2026-05-13,17:00,Jeepney,Short Haul,Molo,10,23,13,15,5,OK
+2026-04-23,09:00,Bus,Long Haul,San Joaquin,18,43,25,3,1,OK
+2026-05-02,10:00,UV Express,Long Haul,Pototan,34,43,9,5,2,OK
+2026-05-16,14:00,UV Express,Medium Haul,Leganes,38,45,7,4,2,OK
+2026-05-06,20:00,Bus,Long Haul,Barotac Nuevo,52,71,19,5,2,ADJUSTED
+2026-05-09,08:00,Bus,Long Haul,Barotac Nuevo,25,65,40,12,4,ADJUSTED
+2026-04-25,06:00,UV Express,Medium Haul,Oton,45,56,11,4,2,OK
+2026-05-12,07:00,UV Express,Medium Haul,Oton,13,29,16,11,4,OK
+2026-05-15,19:00,UV Express,Medium Haul,Leganes,53,60,7,4,2,ADJUSTED
+2026-05-19,17:00,UV Express,Medium Haul,Leganes,44,58,14,11,4,OK
+2026-05-04,08:00,UV Express,Medium Haul,Oton,43,59,16,11,4,OK
+2026-05-18,08:00,UV Express,Long Haul,San Joaquin,23,41,18,12,4,OK
+2026-04-25,08:00,Jeepney,Medium Haul,Pavia,40,54,14,9,3,OK
+2026-05-05,07:00,Bus,Long Haul,San Joaquin,0,29,29,8,3,OK
+2026-05-07,21:00,Bus,Medium Haul,Leganes,50,73,23,2,1,ADJUSTED
+2026-05-20,18:00,Jeepney,Short Haul,Molo,42,66,24,13,5,ADJUSTED
+2026-05-04,15:00,UV Express,Medium Haul,Oton,54,61,7,2,1,ADJUSTED
+2026-05-20,18:00,Jeepney,Short Haul,Molo,21,43,22,12,4,OK
+2026-05-10,08:00,Jeepney,Short Haul,La Paz,22,37,15,11,4,ADJUSTED
+2026-04-25,17:00,UV Express,Medium Haul,Oton,55,67,12,14,5,ADJUSTED
+2026-05-02,18:00,Jeepney,Short Haul,La Paz,53,72,19,12,4,ADJUSTED
+2026-05-06,11:00,UV Express,Long Haul,Pototan,18,27,9,5,2,OK
+2026-05-16,18:00,UV Express,Long Haul,Barotac Nuevo,17,36,19,8,3,OK
+2026-05-16,08:00,Modern Jeepney,Short Haul,La Paz,11,25,14,15,5,OK
+2026-05-06,08:00,Jeepney,Short Haul,Jaro,54,72,18,11,4,ADJUSTED
+2026-05-11,07:00,Jeepney,Short Haul,La Paz,27,47,20,8,3,ADJUSTED
+2026-04-27,14:00,UV Express,Medium Haul,Oton,27,37,10,1,1,OK
+2026-04-24,17:00,Bus,Long Haul,San Joaquin,59,91,32,12,4,ADJUSTED
+2026-04-21,20:00,UV Express,Long Haul,Barotac Nuevo,58,64,6,2,1,ADJUSTED
+2026-05-20,16:00,Jeepney,Short Haul,Mandurriao,32,49,17,11,4,OK
+2026-05-20,18:00,UV Express,Medium Haul,Pavia,18,32,14,13,5,OK
+2026-04-25,18:00,Modern Jeepney,Short Haul,Mandurriao,27,43,16,10,4,ADJUSTED
+2026-05-13,08:00,UV Express,Medium Haul,Leganes,58,76,18,9,3,ADJUSTED
+2026-05-16,16:00,Jeepney,Short Haul,La Paz,51,74,23,14,5,ADJUSTED
+2026-04-30,07:00,UV Express,Medium Haul,Pavia,48,65,17,9,3,ADJUSTED
+2026-05-12,17:00,Modern Jeepney,Medium Haul,Oton,36,57,21,14,5,OK
+2026-04-25,21:00,Bus,Long Haul,San Joaquin,25,46,21,3,1,OK
+2026-04-24,07:00,Jeepney,Medium Haul,Leganes,34,57,23,11,4,OK
+2026-04-22,17:00,UV Express,Long Haul,Pototan,33,46,13,8,3,OK
+2026-05-10,17:00,Bus,Medium Haul,Leganes,34,67,33,10,4,ADJUSTED
+2026-04-30,16:00,Jeepney,Medium Haul,Pavia,39,58,19,10,4,ADJUSTED
+2026-05-16,12:00,Bus,Medium Haul,Pavia,15,39,24,4,2,OK
+2026-05-09,11:00,UV Express,Long Haul,Barotac Nuevo,37,42,5,4,2,OK
+2026-05-16,07:00,Jeepney,Short Haul,Molo,12,22,10,12,4,ADJUSTED
+2026-04-21,08:00,Jeepney,Short Haul,Mandurriao,22,34,12,14,5,OK
+2026-05-14,06:00,UV Express,Medium Haul,Pavia,59,69,10,4,2,ADJUSTED
+2026-04-25,16:00,Jeepney,Short Haul,Molo,53,77,24,10,4,ADJUSTED
+2026-05-03,07:00,Modern Jeepney,Short Haul,Jaro,21,33,12,9,3,ADJUSTED
+2026-04-24,18:00,Jeepney,Medium Haul,Oton,15,25,10,9,3,ADJUSTED
+2026-05-06,16:00,UV Express,Medium Haul,Oton,27,45,18,12,4,OK
+2026-05-14,17:00,Jeepney,Short Haul,La Paz,47,60,13,12,4,ADJUSTED
+2026-05-06,13:00,Bus,Long Haul,San Joaquin,34,58,24,1,1,OK
+2026-05-13,16:00,Bus,Long Haul,Barotac Nuevo,59,96,37,8,3,ADJUSTED
+2026-04-22,21:00,Bus,Long Haul,Barotac Nuevo,44,60,16,4,2,ADJUSTED
+2026-05-07,07:00,UV Express,Long Haul,Pototan,45,61,16,11,4,ADJUSTED
+2026-05-18,08:00,Jeepney,Short Haul,Mandurriao,7,22,15,9,3,OK
+2026-05-17,18:00,UV Express,Medium Haul,Pavia,43,63,20,8,3,ADJUSTED
+2026-05-10,07:00,Jeepney,Short Haul,Mandurriao,54,67,13,12,4,ADJUSTED
+2026-05-14,07:00,Jeepney,Short Haul,Jaro,54,65,11,13,5,ADJUSTED
+2026-05-02,11:00,Jeepney,Medium Haul,Pavia,21,27,6,1,1,OK
+2026-05-08,07:00,Modern Jeepney,Short Haul,Mandurriao,20,32,12,14,5,OK
+2026-04-23,16:00,UV Express,Medium Haul,Leganes,25,38,13,13,5,OK
+2026-05-18,08:00,UV Express,Long Haul,Barotac Nuevo,39,51,12,15,5,OK
+2026-04-21,18:00,Jeepney,Short Haul,Molo,20,39,19,9,3,OK
+2026-04-21,18:00,Jeepney,Short Haul,Molo,24,35,11,12,4,OK
+2026-05-19,17:00,Bus,Long Haul,San Joaquin,40,70,30,9,3,ADJUSTED
+2026-05-09,16:00,Jeepney,Short Haul,La Paz,0,17,17,8,3,OK
+2026-05-01,18:00,Jeepney,Short Haul,Jaro,5,27,22,14,5,OK
+2026-04-25,08:00,Jeepney,Short Haul,Molo,22,34,12,15,5,OK
+2026-05-02,18:00,UV Express,Long Haul,Pototan,50,70,20,10,4,ADJUSTED
+2026-04-23,18:00,UV Express,Long Haul,Barotac Nuevo,22,42,20,13,5,OK
+2026-04-21,17:00,Jeepney,Short Haul,Mandurriao,42,53,11,10,4,ADJUSTED
+2026-04-21,16:00,Jeepney,Short Haul,Jaro,42,59,17,13,5,OK
+2026-04-28,08:00,UV Express,Long Haul,San Joaquin,22,38,16,9,3,OK
+2026-04-30,13:00,UV Express,Long Haul,San Joaquin,31,39,8,6,2,OK
+2026-05-01,18:00,Jeepney,Short Haul,La Paz,29,48,19,12,4,ADJUSTED
+2026-05-02,06:00,Bus,Long Haul,Pototan,12,31,19,2,1,OK
+2026-05-19,18:00,Jeepney,Short Haul,Mandurriao,42,55,13,14,5,OK
+2026-05-03,08:00,Jeepney,Medium Haul,Leganes,17,42,25,11,4,ADJUSTED
+2026-05-02,07:00,Bus,Long Haul,San Joaquin,22,54,32,8,3,OK
+2026-05-04,07:00,Jeepney,Short Haul,Mandurriao,14,27,13,8,3,OK
+2026-04-22,06:00,UV Express,Long Haul,San Joaquin,32,41,9,4,2,OK
+2026-05-19,16:00,Jeepney,Short Haul,La Paz,20,39,19,14,5,OK
+2026-05-09,08:00,Jeepney,Short Haul,Jaro,56,77,21,13,5,ADJUSTED
+2026-05-08,22:00,Bus,Long Haul,San Joaquin,38,65,27,1,1,ADJUSTED
+2026-04-23,16:00,Jeepney,Short Haul,Molo,22,45,23,11,4,OK
+2026-05-13,07:00,Bus,Medium Haul,Oton,26,66,40,15,5,ADJUSTED
+2026-05-07,17:00,Jeepney,Short Haul,Jaro,44,59,15,11,4,ADJUSTED
+2026-05-16,18:00,Jeepney,Short Haul,Mandurriao,43,54,11,12,4,OK
+2026-04-28,17:00,Jeepney,Short Haul,Jaro,17,31,14,14,5,OK
+2026-05-19,07:00,UV Express,Medium Haul,Oton,23,40,17,12,4,OK
+2026-05-16,18:00,Jeepney,Short Haul,Jaro,50,64,14,8,3,ADJUSTED
+2026-04-30,18:00,Bus,Long Haul,Barotac Nuevo,46,82,36,8,3,ADJUSTED
+2026-05-16,07:00,Jeepney,Short Haul,Molo,39,50,11,13,5,OK
+2026-05-20,07:00,Bus,Medium Haul,Pavia,50,81,31,10,4,ADJUSTED
+2026-04-22,16:00,Jeepney,Medium Haul,Oton,41,54,13,13,5,OK
+2026-05-09,08:00,Bus,Long Haul,Pototan,6,37,31,9,3,OK
+2026-04-29,18:00,UV Express,Medium Haul,Leganes,49,69,20,11,4,ADJUSTED
+2026-04-27,11:00,UV Express,Medium Haul,Leganes,47,52,5,5,2,OK
+2026-04-24,19:00,UV Express,Long Haul,Pototan,19,25,6,3,1,OK
+2026-05-16,16:00,UV Express,Medium Haul,Leganes,26,43,17,9,3,OK
+2026-05-11,08:00,UV Express,Long Haul,San Joaquin,5,22,17,8,3,OK
+2026-05-08,07:00,Jeepney,Short Haul,La Paz,26,41,15,12,4,OK
+2026-05-03,16:00,Jeepney,Short Haul,Molo,8,30,22,9,3,OK
+2026-05-01,18:00,Bus,Long Haul,San Joaquin,52,88,36,10,4,ADJUSTED
+2026-05-19,18:00,UV Express,Long Haul,San Joaquin,44,61,17,13,5,ADJUSTED
+2026-05-14,08:00,UV Express,Medium Haul,Leganes,56,74,18,11,4,ADJUSTED
+2026-04-24,08:00,Modern Jeepney,Short Haul,La Paz,30,53,23,8,3,ADJUSTED
+2026-05-15,06:00,Jeepney,Short Haul,Mandurriao,20,31,11,7,3,OK
+2026-05-11,17:00,Jeepney,Short Haul,Mandurriao,25,40,15,11,4,OK
+2026-05-19,07:00,UV Express,Long Haul,Pototan,39,51,12,14,5,OK
+2026-05-15,13:00,Jeepney,Short Haul,Jaro,47,51,4,1,1,OK
+2026-04-24,16:00,Jeepney,Short Haul,La Paz,44,55,11,9,3,OK
+2026-04-30,20:00,Modern Jeepney,Short Haul,Jaro,12,19,7,1,1,OK
+2026-04-25,09:00,Jeepney,Short Haul,Molo,48,57,9,4,2,OK
+2026-04-29,08:00,Modern Jeepney,Short Haul,La Paz,22,34,12,15,5,OK
+2026-05-14,17:00,Jeepney,Medium Haul,Pavia,19,38,19,14,5,OK
+2026-04-23,16:00,UV Express,Medium Haul,Pavia,36,55,19,11,4,OK
+2026-05-07,09:00,Jeepney,Short Haul,Molo,53,62,9,7,3,ADJUSTED
+2026-04-23,19:00,Jeepney,Short Haul,Molo,52,58,6,2,1,OK
+2026-05-06,18:00,Jeepney,Short Haul,Jaro,27,44,17,15,5,OK
+2026-04-24,08:00,Jeepney,Short Haul,Molo,16,31,15,9,3,OK
+2026-05-08,08:00,Jeepney,Short Haul,Molo,27,41,14,12,4,ADJUSTED
+2026-05-07,16:00,Jeepney,Short Haul,Jaro,40,58,18,11,4,ADJUSTED
+2026-04-27,18:00,UV Express,Medium Haul,Pavia,1,19,18,15,5,OK
+2026-05-14,07:00,Jeepney,Short Haul,Molo,24,41,17,10,4,OK
+2026-05-13,17:00,UV Express,Long Haul,Barotac Nuevo,57,69,12,9,3,ADJUSTED
+2026-05-20,17:00,Bus,Long Haul,Barotac Nuevo,49,91,42,12,4,ADJUSTED
+2026-04-25,08:00,UV Express,Medium Haul,Pavia,40,59,19,13,5,OK
+2026-05-02,17:00,Jeepney,Medium Haul,Pavia,5,26,21,14,5,OK
+2026-05-07,20:00,Modern Jeepney,Short Haul,La Paz,10,20,10,7,3,OK
+2026-05-13,07:00,Jeepney,Short Haul,Jaro,56,69,13,13,5,ADJUSTED
+2026-05-03,09:00,Jeepney,Short Haul,Molo,37,50,13,6,2,OK
+2026-05-13,13:00,Bus,Long Haul,San Joaquin,5,35,30,7,3,OK
+2026-05-15,18:00,Jeepney,Short Haul,La Paz,44,63,19,10,4,ADJUSTED
+2026-04-23,21:00,Modern Jeepney,Short Haul,Mandurriao,10,22,12,2,1,OK
+2026-04-29,14:00,UV Express,Medium Haul,Leganes,13,19,6,1,1,OK
+2026-05-20,17:00,UV Express,Medium Haul,Oton,1,21,20,13,5,OK
+2026-05-07,16:00,Modern Jeepney,Medium Haul,Leganes,39,52,13,15,5,OK
+2026-05-07,16:00,Jeepney,Short Haul,Mandurriao,2,21,19,12,4,OK
+2026-05-20,08:00,Jeepney,Medium Haul,Oton,54,79,25,11,4,ADJUSTED
+2026-05-10,08:00,Modern Jeepney,Short Haul,Mandurriao,52,71,19,9,3,ADJUSTED
+2026-05-06,08:00,Jeepney,Short Haul,Molo,34,53,19,11,4,ADJUSTED
+2026-05-15,16:00,Jeepney,Short Haul,Mandurriao,32,50,18,14,5,OK
+2026-05-12,07:00,Jeepney,Short Haul,Jaro,23,43,20,9,3,ADJUSTED
+2026-05-03,19:00,Jeepney,Medium Haul,Pavia,18,26,8,5,2,OK
+2026-05-17,07:00,Jeepney,Short Haul,La Paz,17,28,11,11,4,OK
+2026-05-09,08:00,Jeepney,Short Haul,Mandurriao,48,66,18,13,5,ADJUSTED
+2026-05-07,16:00,Modern Jeepney,Short Haul,Molo,51,64,13,11,4,ADJUSTED
+2026-04-24,17:00,UV Express,Long Haul,Barotac Nuevo,23,42,19,10,4,OK
+2026-05-02,07:00,UV Express,Long Haul,Pototan,44,62,18,13,5,ADJUSTED
+2026-05-19,09:00,Jeepney,Short Haul,Mandurriao,34,48,14,2,1,OK
+2026-04-29,21:00,Jeepney,Short Haul,Jaro,0,8,8,3,1,OK
+2026-05-09,08:00,Jeepney,Short Haul,Molo,35,52,17,14,5,OK
+2026-05-02,09:00,UV Express,Medium Haul,Pavia,24,29,5,5,2,OK
+2026-04-29,18:00,UV Express,Long Haul,San Joaquin,44,60,16,11,4,ADJUSTED
+2026-04-27,07:00,Jeepney,Short Haul,Jaro,48,59,11,13,5,OK
+2026-05-18,14:00,Bus,Long Haul,San Joaquin,59,75,16,2,1,ADJUSTED
+2026-05-04,11:00,Jeepney,Medium Haul,Leganes,42,44,2,1,1,OK
+2026-05-10,09:00,Modern Jeepney,Short Haul,La Paz,33,39,6,7,3,OK
+2026-05-09,08:00,UV Express,Medium Haul,Oton,24,37,13,8,3,OK
+2026-05-16,07:00,Bus,Long Haul,Pototan,15,59,44,10,4,OK
+2026-05-05,09:00,UV Express,Medium Haul,Oton,33,40,7,4,2,OK
+2026-05-06,07:00,UV Express,Long Haul,San Joaquin,28,42,14,15,5,OK
+2026-05-11,18:00,Jeepney,Short Haul,Molo,18,29,11,8,3,ADJUSTED
+2026-04-25,12:00,UV Express,Medium Haul,Oton,22,31,9,3,1,OK
+2026-04-23,14:00,Jeepney,Short Haul,Jaro,18,25,7,7,3,OK
+2026-05-02,20:00,Bus,Long Haul,Pototan,24,40,16,3,1,OK
+2026-05-15,17:00,Modern Jeepney,Short Haul,Molo,15,38,23,14,5,OK
+2026-05-10,06:00,UV Express,Medium Haul,Leganes,53,63,10,3,1,ADJUSTED
+2026-05-17,20:00,Jeepney,Short Haul,Molo,50,59,9,2,1,OK
+2026-05-11,08:00,UV Express,Medium Haul,Oton,8,27,19,10,4,OK
+2026-04-24,07:00,Modern Jeepney,Short Haul,Molo,0,22,22,13,5,OK
+2026-05-11,18:00,UV Express,Long Haul,Pototan,41,57,16,10,4,OK
+2026-05-13,16:00,Jeepney,Short Haul,Molo,18,37,19,15,5,OK
+2026-05-06,14:00,Jeepney,Short Haul,Molo,32,40,8,2,1,OK
+2026-05-15,08:00,Jeepney,Short Haul,Molo,33,46,13,9,3,ADJUSTED
+2026-04-27,16:00,Jeepney,Short Haul,Mandurriao,15,25,10,11,4,ADJUSTED
+2026-05-03,09:00,Bus,Long Haul,San Joaquin,43,68,25,3,1,ADJUSTED
+2026-05-11,18:00,Jeepney,Short Haul,La Paz,39,50,11,12,4,ADJUSTED
+2026-04-30,08:00,Bus,Long Haul,Barotac Nuevo,54,82,28,14,5,ADJUSTED
+2026-05-16,18:00,Jeepney,Short Haul,Mandurriao,17,27,10,15,5,OK
+2026-04-27,16:00,Jeepney,Medium Haul,Leganes,33,57,24,14,5,OK
+2026-05-04,18:00,UV Express,Medium Haul,Leganes,24,43,19,14,5,OK
+2026-05-16,17:00,UV Express,Long Haul,San Joaquin,44,64,20,9,3,ADJUSTED
+2026-04-25,17:00,Modern Jeepney,Short Haul,Jaro,5,18,13,15,5,OK
+2026-04-23,09:00,Modern Jeepney,Short Haul,La Paz,20,31,11,4,2,OK
+2026-05-13,08:00,UV Express,Medium Haul,Pavia,57,71,14,15,5,ADJUSTED
+2026-05-19,08:00,Jeepney,Short Haul,Molo,5,16,11,12,4,ADJUSTED
+2026-05-01,19:00,Bus,Medium Haul,Leganes,31,50,19,5,2,OK
+2026-05-01,18:00,Bus,Long Haul,San Joaquin,40,83,43,12,4,ADJUSTED
+2026-05-08,14:00,UV Express,Long Haul,Barotac Nuevo,47,53,6,1,1,OK
+2026-05-05,07:00,Jeepney,Short Haul,Mandurriao,42,58,16,9,3,ADJUSTED
+2026-05-02,12:00,UV Express,Long Haul,Barotac Nuevo,38,45,7,7,3,OK
+2026-04-29,17:00,Jeepney,Short Haul,Molo,30,45,15,12,4,OK
+2026-04-30,15:00,Jeepney,Short Haul,Mandurriao,41,43,2,3,1,OK
+2026-05-16,18:00,Jeepney,Short Haul,Molo,9,30,21,14,5,OK
+2026-05-02,22:00,Jeepney,Short Haul,La Paz,29,38,9,1,1,OK
+2026-05-07,08:00,Bus,Long Haul,Pototan,56,82,26,10,4,ADJUSTED
+2026-05-19,14:00,UV Express,Long Haul,Pototan,51,60,9,2,1,ADJUSTED
+2026-04-26,13:00,UV Express,Medium Haul,Oton,17,22,5,2,1,OK
+2026-04-27,08:00,Jeepney,Short Haul,Jaro,59,76,17,12,4,ADJUSTED
+2026-05-04,08:00,Jeepney,Short Haul,Mandurriao,23,34,11,15,5,OK
+2026-05-03,07:00,Jeepney,Short Haul,La Paz,51,69,18,12,4,ADJUSTED
+2026-04-28,19:00,Bus,Medium Haul,Pavia,8,38,30,2,1,OK
+2026-04-30,13:00,Jeepney,Short Haul,Molo,30,36,6,1,1,OK
+2026-04-29,15:00,Bus,Long Haul,Barotac Nuevo,14,38,24,1,1,OK
+2026-05-08,19:00,Modern Jeepney,Short Haul,La Paz,3,18,15,6,2,OK
+2026-05-17,18:00,Jeepney,Short Haul,La Paz,39,54,15,9,3,ADJUSTED
+2026-05-16,07:00,UV Express,Long Haul,San Joaquin,8,22,14,13,5,OK
+2026-04-22,16:00,Modern Jeepney,Short Haul,Jaro,44,66,22,9,3,ADJUSTED
+2026-04-25,13:00,Bus,Medium Haul,Leganes,8,25,17,2,1,OK
+2026-05-19,18:00,Bus,Long Haul,Barotac Nuevo,25,57,32,10,4,OK
+2026-04-25,17:00,Jeepney,Short Haul,Jaro,3,23,20,8,3,ADJUSTED
+2026-04-26,17:00,Jeepney,Short Haul,Jaro,16,35,19,9,3,OK
+2026-05-09,10:00,Modern Jeepney,Short Haul,Mandurriao,15,26,11,6,2,OK
+2026-04-28,18:00,Bus,Long Haul,Barotac Nuevo,14,50,36,12,4,OK
+2026-05-06,07:00,Jeepney,Short Haul,La Paz,34,45,11,9,3,ADJUSTED
+2026-05-03,07:00,UV Express,Medium Haul,Pavia,56,69,13,13,5,ADJUSTED
+2026-04-21,10:00,UV Express,Medium Haul,Oton,51,60,9,6,2,ADJUSTED
+2026-05-12,07:00,UV Express,Medium Haul,Oton,4,20,16,13,5,OK
+2026-05-10,08:00,Jeepney,Short Haul,Mandurriao,54,69,15,9,3,ADJUSTED
+2026-05-07,18:00,UV Express,Long Haul,San Joaquin,4,17,13,10,4,OK
+2026-04-27,21:00,Bus,Medium Haul,Oton,19,48,29,6,2,OK
+2026-05-15,08:00,Jeepney,Medium Haul,Leganes,14,28,14,13,5,OK
+2026-05-03,08:00,Jeepney,Short Haul,La Paz,17,33,16,10,4,OK
+2026-04-24,09:00,Bus,Long Haul,San Joaquin,46,70,24,7,3,ADJUSTED
+2026-04-24,08:00,Jeepney,Short Haul,Jaro,1,20,19,15,5,OK
+2026-04-26,06:00,Bus,Medium Haul,Oton,28,50,22,2,1,OK
+2026-05-18,19:00,Modern Jeepney,Short Haul,Mandurriao,12,25,13,1,1,OK
+2026-05-09,08:00,Jeepney,Short Haul,La Paz,3,28,25,12,4,ADJUSTED
+2026-05-19,13:00,Bus,Long Haul,San Joaquin,41,62,21,2,1,ADJUSTED
+2026-05-02,06:00,Jeepney,Short Haul,Molo,44,53,9,5,2,OK
+2026-05-12,18:00,Modern Jeepney,Medium Haul,Oton,9,32,23,14,5,OK
+2026-04-27,17:00,Jeepney,Short Haul,La Paz,30,51,21,10,4,OK
+2026-05-17,20:00,Modern Jeepney,Medium Haul,Pavia,40,50,10,4,2,OK
+2026-04-30,18:00,Jeepney,Medium Haul,Oton,7,32,25,9,3,ADJUSTED
+2026-05-16,09:00,Jeepney,Short Haul,La Paz,2,8,6,2,1,OK
+2026-05-09,08:00,Bus,Long Haul,Barotac Nuevo,47,84,37,10,4,ADJUSTED
+2026-04-27,17:00,Jeepney,Short Haul,Jaro,45,59,14,9,3,ADJUSTED
+2026-05-20,11:00,UV Express,Medium Haul,Oton,8,15,7,6,2,OK
+2026-04-23,16:00,Jeepney,Short Haul,Mandurriao,29,48,19,10,4,OK
+2026-05-03,06:00,UV Express,Long Haul,Pototan,52,60,8,3,1,ADJUSTED
+2026-05-03,07:00,Jeepney,Short Haul,Mandurriao,10,32,22,13,5,OK
+2026-05-08,16:00,Bus,Long Haul,Barotac Nuevo,34,67,33,14,5,ADJUSTED
+2026-05-18,16:00,Jeepney,Short Haul,La Paz,36,50,14,15,5,OK
+2026-05-20,17:00,Jeepney,Short Haul,La Paz,41,64,23,15,5,ADJUSTED
+2026-05-16,07:00,Jeepney,Medium Haul,Oton,12,23,11,8,3,ADJUSTED
+2026-05-10,16:00,Jeepney,Short Haul,Jaro,35,59,24,9,3,ADJUSTED
+2026-05-18,08:00,Modern Jeepney,Short Haul,Molo,55,74,19,11,4,ADJUSTED
+2026-04-28,07:00,Jeepney,Medium Haul,Pavia,12,29,17,10,4,OK
+2026-05-19,13:00,UV Express,Long Haul,Barotac Nuevo,11,22,11,6,2,OK
+2026-04-29,07:00,Jeepney,Short Haul,Mandurriao,36,52,16,11,4,ADJUSTED
+2026-04-27,08:00,Jeepney,Short Haul,Jaro,9,26,17,10,4,OK
+2026-04-21,09:00,UV Express,Medium Haul,Oton,59,67,8,5,2,ADJUSTED
+2026-04-23,08:00,UV Express,Long Haul,San Joaquin,55,69,14,9,3,ADJUSTED
+2026-05-03,07:00,Jeepney,Short Haul,Mandurriao,8,32,24,11,4,OK
+2026-05-18,07:00,Jeepney,Short Haul,Jaro,51,75,24,9,3,ADJUSTED
+2026-05-20,08:00,Jeepney,Short Haul,Mandurriao,6,31,25,15,5,OK
+2026-05-15,07:00,UV Express,Medium Haul,Pavia,1,16,15,15,5,OK
+2026-05-18,17:00,UV Express,Medium Haul,Leganes,53,69,16,15,5,ADJUSTED
+2026-05-07,08:00,Jeepney,Medium Haul,Pavia,55,70,15,10,4,ADJUSTED
+2026-05-15,08:00,UV Express,Long Haul,Pototan,59,71,12,10,4,ADJUSTED
+2026-05-14,10:00,UV Express,Long Haul,Barotac Nuevo,22,30,8,7,3,OK
+2026-04-21,17:00,Modern Jeepney,Short Haul,Jaro,38,58,20,9,3,OK
+2026-04-26,19:00,Bus,Long Haul,Pototan,39,65,26,3,1,ADJUSTED
+2026-05-11,17:00,Jeepney,Medium Haul,Oton,38,57,19,15,5,OK
+2026-04-26,17:00,Jeepney,Short Haul,La Paz,20,42,22,13,5,OK
+2026-05-16,16:00,Jeepney,Short Haul,Jaro,22,36,14,14,5,OK
+2026-05-02,17:00,Jeepney,Short Haul,La Paz,28,44,16,11,4,OK
+2026-05-03,16:00,Modern Jeepney,Medium Haul,Leganes,13,35,22,8,3,OK
+2026-05-03,08:00,Bus,Long Haul,Pototan,25,70,45,9,3,ADJUSTED
+2026-05-19,08:00,Jeepney,Short Haul,Jaro,50,75,25,8,3,ADJUSTED
+2026-05-05,08:00,Jeepney,Short Haul,Mandurriao,4,26,22,15,5,OK
+2026-05-11,19:00,Jeepney,Short Haul,La Paz,54,68,14,3,1,ADJUSTED
+2026-05-06,16:00,Bus,Long Haul,Barotac Nuevo,30,71,41,9,3,ADJUSTED
+2026-05-12,17:00,Jeepney,Short Haul,Molo,24,44,20,15,5,OK
+2026-05-11,10:00,Modern Jeepney,Short Haul,La Paz,30,38,8,7,3,OK
+2026-05-01,13:00,Jeepney,Short Haul,Molo,49,58,9,2,1,OK
+2026-05-18,07:00,Jeepney,Short Haul,Mandurriao,19,41,22,13,5,OK
+2026-04-25,08:00,Bus,Long Haul,Barotac Nuevo,43,83,40,14,5,ADJUSTED
+2026-04-24,18:00,Bus,Long Haul,San Joaquin,54,82,28,10,4,ADJUSTED
+2026-04-23,16:00,Jeepney,Short Haul,Jaro,16,33,17,15,5,OK
+2026-05-09,11:00,Bus,Long Haul,San Joaquin,44,74,30,2,1,ADJUSTED
+2026-05-10,18:00,UV Express,Medium Haul,Oton,1,17,16,12,4,OK
+2026-05-15,08:00,Bus,Long Haul,Pototan,24,58,34,10,4,OK
+2026-05-08,21:00,Jeepney,Short Haul,Mandurriao,12,22,10,2,1,OK
+2026-05-05,10:00,Modern Jeepney,Short Haul,Molo,57,70,13,6,2,ADJUSTED
+2026-04-29,10:00,Modern Jeepney,Medium Haul,Leganes,38,51,13,1,1,OK
+2026-05-07,09:00,UV Express,Medium Haul,Oton,27,33,6,1,1,OK
+2026-05-04,07:00,Jeepney,Medium Haul,Oton,41,55,14,12,4,ADJUSTED
+2026-05-05,07:00,Jeepney,Short Haul,Jaro,54,79,25,9,3,ADJUSTED
+2026-04-21,17:00,Jeepney,Short Haul,Jaro,5,30,25,13,5,OK
+2026-05-11,18:00,UV Express,Medium Haul,Oton,2,14,12,14,5,OK
+2026-05-12,18:00,Jeepney,Medium Haul,Leganes,57,78,21,12,4,ADJUSTED
+2026-05-12,07:00,UV Express,Long Haul,Barotac Nuevo,34,54,20,12,4,OK
+2026-04-23,16:00,Bus,Long Haul,San Joaquin,17,53,36,10,4,OK
+2026-05-06,07:00,Jeepney,Short Haul,Molo,10,24,14,9,3,OK
+2026-05-13,07:00,UV Express,Medium Haul,Pavia,53,70,17,14,5,ADJUSTED
+2026-05-15,17:00,Jeepney,Short Haul,La Paz,19,32,13,15,5,OK
+2026-05-01,16:00,Bus,Long Haul,Pototan,4,31,27,11,4,OK
+2026-05-02,07:00,Jeepney,Short Haul,Molo,18,32,14,11,4,OK
+2026-04-30,07:00,UV Express,Long Haul,Barotac Nuevo,21,34,13,8,3,OK
+2026-05-06,22:00,UV Express,Medium Haul,Leganes,58,68,10,7,3,ADJUSTED
+2026-04-28,06:00,Bus,Long Haul,Pototan,59,75,16,3,1,ADJUSTED
+2026-04-26,14:00,UV Express,Medium Haul,Oton,18,27,9,2,1,OK
+2026-05-02,16:00,Modern Jeepney,Short Haul,Jaro,46,62,16,11,4,ADJUSTED
+2026-05-14,07:00,UV Express,Medium Haul,Leganes,15,32,17,14,5,OK
+2026-05-18,08:00,Bus,Long Haul,San Joaquin,23,51,28,11,4,OK
+2026-05-11,10:00,Modern Jeepney,Medium Haul,Pavia,40,46,6,2,1,OK
+2026-04-28,17:00,Jeepney,Short Haul,Mandurriao,3,13,10,15,5,OK
+2026-05-16,15:00,Bus,Long Haul,Barotac Nuevo,14,35,21,6,2,OK
+2026-05-18,17:00,UV Express,Long Haul,Barotac Nuevo,24,43,19,13,5,OK
+2026-04-24,22:00,UV Express,Medium Haul,Leganes,43,48,5,7,3,OK
+2026-05-16,18:00,Jeepney,Short Haul,Molo,54,71,17,13,5,ADJUSTED
+2026-04-28,14:00,UV Express,Medium Haul,Oton,34,43,9,5,2,OK
+2026-05-16,14:00,Jeepney,Short Haul,Molo,54,58,4,1,1,OK
+2026-05-18,16:00,UV Express,Medium Haul,Leganes,13,33,20,12,4,OK
+2026-05-08,17:00,Jeepney,Medium Haul,Leganes,48,72,24,10,4,ADJUSTED
+2026-05-18,16:00,UV Express,Long Haul,Pototan,18,35,17,10,4,OK
+2026-05-18,17:00,Bus,Long Haul,San Joaquin,37,76,39,8,3,ADJUSTED
+2026-04-25,06:00,Jeepney,Short Haul,Molo,35,41,6,2,1,OK
+2026-04-29,13:00,Bus,Long Haul,San Joaquin,6,33,27,7,3,OK
+2026-04-24,08:00,Jeepney,Short Haul,Jaro,29,41,12,8,3,OK
+2026-05-17,07:00,Bus,Long Haul,San Joaquin,18,61,43,13,5,ADJUSTED
+2026-05-12,07:00,UV Express,Long Haul,Pototan,48,65,17,12,4,ADJUSTED
+2026-05-07,16:00,Modern Jeepney,Short Haul,Mandurriao,24,37,13,10,4,ADJUSTED
+2026-04-29,16:00,UV Express,Long Haul,Pototan,15,28,13,14,5,OK
+2026-04-21,08:00,Bus,Medium Haul,Oton,46,86,40,10,4,ADJUSTED
+2026-05-11,15:00,Jeepney,Short Haul,Jaro,53,62,9,7,3,ADJUSTED
+2026-05-10,16:00,Jeepney,Short Haul,Molo,39,52,13,8,3,OK
+2026-05-03,08:00,UV Express,Medium Haul,Oton,50,70,20,8,3,ADJUSTED
+2026-05-18,17:00,UV Express,Medium Haul,Pavia,7,25,18,10,4,OK
+2026-05-06,18:00,UV Express,Long Haul,Barotac Nuevo,17,30,13,10,4,OK
+2026-05-19,18:00,UV Express,Medium Haul,Leganes,27,42,15,9,3,OK
+2026-05-03,16:00,Jeepney,Short Haul,Jaro,15,29,14,14,5,OK
+2026-05-04,16:00,UV Express,Medium Haul,Oton,51,65,14,12,4,ADJUSTED
+2026-04-23,07:00,Jeepney,Short Haul,La Paz,18,36,18,12,4,OK
+2026-05-19,08:00,Modern Jeepney,Short Haul,Jaro,41,63,22,11,4,ADJUSTED
+2026-04-26,07:00,Jeepney,Short Haul,Molo,16,30,14,12,4,ADJUSTED
+2026-05-08,21:00,Jeepney,Short Haul,Jaro,44,47,3,5,2,OK
+2026-05-09,07:00,Jeepney,Short Haul,Molo,12,32,20,13,5,OK
+2026-04-25,07:00,Jeepney,Short Haul,Molo,6,18,12,11,4,ADJUSTED
+2026-05-05,19:00,UV Express,Medium Haul,Pavia,26,36,10,2,1,OK
+2026-05-15,20:00,Jeepney,Short Haul,Jaro,9,19,10,1,1,OK
+2026-04-22,18:00,Jeepney,Short Haul,Jaro,33,49,16,15,5,OK
+2026-04-30,06:00,Jeepney,Short Haul,La Paz,35,38,3,2,1,OK
+2026-05-14,06:00,Jeepney,Short Haul,Molo,24,34,10,6,2,OK
+2026-05-20,11:00,Jeepney,Short Haul,Mandurriao,5,20,15,1,1,OK
+2026-05-08,07:00,Jeepney,Short Haul,Mandurriao,23,36,13,8,3,ADJUSTED
+2026-05-17,06:00,UV Express,Medium Haul,Pavia,17,26,9,1,1,OK
+2026-05-03,15:00,UV Express,Medium Haul,Leganes,22,27,5,3,1,OK
+2026-04-25,20:00,UV Express,Medium Haul,Oton,5,16,11,5,2,OK
+2026-05-13,09:00,Jeepney,Medium Haul,Leganes,28,42,14,5,2,OK
+2026-05-14,17:00,Jeepney,Short Haul,Mandurriao,24,35,11,10,4,ADJUSTED
+2026-04-21,17:00,Bus,Long Haul,Barotac Nuevo,54,93,39,8,3,ADJUSTED
+2026-05-12,08:00,Modern Jeepney,Short Haul,Molo,16,37,21,8,3,ADJUSTED
+2026-04-21,17:00,Jeepney,Short Haul,Molo,45,64,19,11,4,ADJUSTED
+2026-05-08,08:00,Jeepney,Medium Haul,Leganes,23,48,25,9,3,ADJUSTED
+2026-05-05,07:00,Jeepney,Short Haul,Jaro,10,31,21,12,4,OK
+2026-05-07,17:00,Jeepney,Short Haul,Mandurriao,25,38,13,13,5,OK
+2026-05-01,07:00,Jeepney,Short Haul,La Paz,50,64,14,10,4,ADJUSTED
+2026-05-11,22:00,Modern Jeepney,Short Haul,Mandurriao,33,36,3,4,2,OK
+2026-05-16,08:00,Modern Jeepney,Short Haul,Mandurriao,27,46,19,14,5,OK
+2026-05-15,16:00,UV Express,Long Haul,Pototan,2,14,12,12,4,OK
+2026-05-12,13:00,UV Express,Medium Haul,Oton,10,21,11,6,2,OK
+2026-05-17,07:00,UV Express,Long Haul,Pototan,37,49,12,8,3,OK
+2026-05-17,06:00,UV Express,Long Haul,San Joaquin,13,25,12,2,1,OK
+2026-05-07,16:00,Bus,Long Haul,Pototan,50,77,27,11,4,ADJUSTED
+2026-05-03,18:00,Jeepney,Short Haul,Molo,25,48,23,11,4,ADJUSTED
+2026-04-21,18:00,Jeepney,Short Haul,Mandurriao,47,66,19,11,4,ADJUSTED
+2026-04-22,16:00,Jeepney,Short Haul,Jaro,20,35,15,12,4,OK
+2026-04-29,18:00,UV Express,Medium Haul,Oton,53,71,18,8,3,ADJUSTED
+2026-04-23,17:00,Bus,Long Haul,Barotac Nuevo,55,96,41,13,5,ADJUSTED
+2026-04-21,17:00,Jeepney,Medium Haul,Oton,38,61,23,15,5,ADJUSTED
+2026-05-11,15:00,Bus,Long Haul,Pototan,29,49,20,6,2,OK
+2026-05-06,17:00,Jeepney,Short Haul,Molo,58,74,16,15,5,ADJUSTED
+2026-05-13,18:00,Bus,Long Haul,San Joaquin,7,35,28,15,5,OK
+2026-04-26,12:00,Jeepney,Short Haul,La Paz,50,52,2,7,3,OK
+2026-05-18,18:00,Jeepney,Short Haul,La Paz,19,39,20,11,4,OK
+2026-05-07,16:00,Modern Jeepney,Medium Haul,Oton,47,65,18,9,3,ADJUSTED
+2026-04-25,07:00,Jeepney,Medium Haul,Leganes,31,44,13,9,3,ADJUSTED
+2026-04-25,07:00,Jeepney,Short Haul,Jaro,21,37,16,10,4,ADJUSTED
+2026-04-26,11:00,Jeepney,Short Haul,La Paz,58,66,8,7,3,ADJUSTED
+2026-04-23,16:00,UV Express,Medium Haul,Oton,6,19,13,11,4,OK
+2026-05-11,18:00,Modern Jeepney,Short Haul,Jaro,8,18,10,8,3,ADJUSTED
+2026-05-13,07:00,Jeepney,Short Haul,Mandurriao,44,61,17,13,5,ADJUSTED
+2026-04-25,18:00,UV Express,Medium Haul,Leganes,0,19,19,15,5,OK
+2026-05-11,18:00,UV Express,Medium Haul,Leganes,28,46,18,8,3,OK
+2026-04-25,07:00,Jeepney,Short Haul,Mandurriao,7,30,23,9,3,ADJUSTED
+2026-04-30,18:00,Jeepney,Short Haul,La Paz,55,79,24,8,3,ADJUSTED
+2026-04-30,22:00,Jeepney,Short Haul,Molo,53,62,9,4,2,ADJUSTED
+2026-05-09,17:00,Jeepney,Short Haul,Mandurriao,3,28,25,9,3,OK
